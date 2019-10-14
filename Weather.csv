@@ -1,0 +1,591 @@
+Away,Game,,,Home,Time (ET),TV,,Forecast,Wind,,Week,Year
+Chiefs,Kansas_city_ntc120,@,New_england_6n_120,Patriots,Final: 42 - 27,NBC,Nclear-night,62f Clear,1m WSW,Details,1,2017
+Jets,New_york_j_white_n120,@,Buffalo_red_ntc120,Bills,Final: 12 - 21,CBS,Partly-cloudy-day,61f Partly Cloudy,6m NNE,Details,1,2017
+Eagles,Philadelphia_6n_120,@,Redskins,Redskins,Final: 30 - 17,FOX,Clear-day,69f Clear,3m NNE,Details,1,2017
+Raiders,Oakland_b_wstripe_n_120,@,Tennessee_ntc120,Titans,Final: 26 - 16,CBS,Clear-day,73f Clear,4m NE,Details,1,2017
+Jaguars,Jacksonville_6n_120,@,Houston_6n_120,Texans,Final: 29 - 7,CBS,Clear-day,80f Clear,4m NE,Details,1,2017
+Cardinals,Arizona_whitetail_ntc120,@,Detroit_6n_120,Lions,Final: 23 - 35,FOX,Dome,DOME,4m E,Details,1,2017
+Falcons,Atlanta_ntc120a,@,Chicago_ntc120,Bears,Final: 23 - 17,FOX,Clear-day,66f Clear,5m ESE,Details,1,2017
+Ravens,Baltimore_ntc120,@,Cinncinnati_6n_120,Bengals,Final: 20 - 0,CBS,Clear-day,69f Clear,3m ENE,Details,1,2017
+Steelers,Pittsburg_ntc120,@,Cleveland_6n_120,Browns,Final: 21 - 18,CBS,Clear-day,65f Clear,5m ENE,Details,1,2017
+Colts,Indianapolis_6n_120,@,Los_angeles_ntc120,Rams,Final: 9 - 46,CBS,Clear-day,85f Clear,4m SW,Details,1,2017
+Seahawks,Seattle_6n_120a,@,Greenbay_6n_120,Packers,Final: 9 - 17,FOX,Clear-day,70f Clear,6m SSE,Details,1,2017
+Panthers,Carolina_6n_120,@,San_francisco_6n_120,49ers,Final: 23 - 3,FOX,Clear-day,86f Clear,2m NW,Details,1,2017
+Giants,New_york_g_6n__120,@,Dallas_6n120,Cowboys,Final: 3 - 19,NBC,Nclear-day,78f Clear,3m ENE,Details,1,2017
+Saints,New_orleans_6n_120,@,Minnesota_ntc120,Vikings,Final: 19 - 29,ESPN,Dome,DOME,1m W,Details,1,2017
+Chargers,Los_angeles_2_120,@,Denver_6n_120,Broncos,Final: 21 - 24,ESPN,Npartly-cloudy-night,73f Partly Cloudy,3m SSE,Details,1,2017
+Texans,Houston_6n_120,@,Cinncinnati_6n_120,Bengals,Final: 13 - 9,NFLNETWORK,Npartly-cloudy-night,67f Mostly Cloudy,0m SE,Details,2,2017
+Browns,Cleveland_6n_120,@,Baltimore_ntc120,Ravens,Final: 10 - 24,CBS,Partly-cloudy-day,78f Mostly Cloudy,1m ENE,Details,2,2017
+Bears,Chicago_ntc120,@,Tampa_bay_ntc120,Buccaneers,Final: 7 - 29,FOX,Clear-day,88f Clear,4m NNE,Details,2,2017
+Vikings,Minnesota_ntc120,@,Pittsburg_ntc120,Steelers,Final: 9 - 26,FOX,Clear-day,78f Clear,0m S,Details,2,2017
+Patriots,New_england_6n_120,@,New_orleans_6n_120,Saints,Final: 36 - 20,CBS,Dome,DOME,3m NE,Details,2,2017
+Eagles,Philadelphia_6n_120,@,Kansas_city_ntc120,Chiefs,Final: 20 - 27,FOX,Cloudy,65f Overcast,3m NNE,Details,2,2017
+Titans,Tennessee_ntc120,@,Jacksonville_6n_120,Jaguars,Final: 37 - 16,CBS,Clear-day,86f Clear,7m NNE,Details,2,2017
+Cardinals,Arizona_whitetail_ntc120,@,Indianapolis_6n_120,Colts,Final: 16 - 13,FOX,Dome,DOME,3m SSW,Details,2,2017
+Bills,Buffalo_red_ntc120,@,Carolina_6n_120,Panthers,Final: 3 - 9,CBS,Partly-cloudy-day,81f Partly Cloudy,3m NE,Details,2,2017
+Jets,New_york_j_white_n120,@,Oakland_b_wstripe_n_120,Raiders,Final: 20 - 45,CBS,Clear-day,70f Clear,3m WSW,Details,2,2017
+Dolphins,Miami_greenmask_ntc120,@,Los_angeles_2_120,Chargers,Final: 19 - 17,CBS,Partly-cloudy-day,71f Partly Cloudy,3m WSW,Details,2,2017
+49ers,San_francisco_6n_120,@,Seattle_6n_120a,Seahawks,Final: 9 - 12,FOX,Rain,63f Drizzle,5m SSW,Details,2,2017
+Redskins,Redskins,@,Los_angeles_ntc120,Rams,Final: 27 - 20,FOX,Partly-cloudy-day,71f Mostly Cloudy,4m SW,Details,2,2017
+Cowboys,Dallas_6n120,@,Denver_6n_120,Broncos,Final: 17 - 42,FOX,Partly-cloudy-day,69f Partly Cloudy,1m NW,Details,2,2017
+Packers,Greenbay_6n_120,@,Atlanta_ntc120a,Falcons,Final: 23 - 34,NBC,Dome,DOME,1m NNW,Details,2,2017
+Lions,Detroit_6n_120,@,New_york_g_6n__120,Giants,Final: 24 - 10,ESPN,Npartly-cloudy-night,70f Partly Cloudy,2m ENE,Details,2,2017
+Rams,Los_angeles_ntc120,@,San_francisco_6n_120,49ers,Final: 41 - 39,NFLNETWORK,Nclear-day,65f Clear,5m W,Details,3,2017
+Ravens,Baltimore_ntc120,@,Jacksonville_6n_120,Jaguars,Final: 7 - 44,TBD,Partly-cloudy-day,70f Partly Cloudy,7m SSE,Details,3,2017
+Browns,Cleveland_6n_120,@,Indianapolis_6n_120,Colts,Final: 28 - 31,CBS,Dome,DOME,2m ESE,Details,3,2017
+Giants,New_york_g_6n__120,@,Philadelphia_6n_120,Eagles,Final: 24 - 27,FOX,Clear-day,87f Clear,2m NE,Details,3,2017
+Dolphins,Miami_greenmask_ntc120,@,New_york_j_white_n120,Jets,Final: 6 - 20,CBS,Clear-day,87f Clear,1m NE,Details,3,2017
+Broncos,Denver_6n_120,@,Buffalo_red_ntc120,Bills,Final: 16 - 26,CBS,Clear-day,84f Clear,4m NNE,Details,3,2017
+Saints,New_orleans_6n_120,@,Carolina_6n_120,Panthers,Final: 34 - 13,FOX,Clear-day,81f Clear,4m NE,Details,3,2017
+Steelers,Pittsburg_ntc120,@,Chicago_ntc120,Bears,Final: 17 - 23,CBS,Clear-day,87f Clear,3m SSE,Details,3,2017
+Falcons,Atlanta_ntc120a,@,Detroit_6n_120,Lions,Final: 30 - 26,FOX,Dome,DOME,4m SE,Details,3,2017
+Buccaneers,Tampa_bay_ntc120,@,Minnesota_ntc120,Vikings,Final: 17 - 34,FOX,Dome,DOME,7m S,Details,3,2017
+Texans,Houston_6n_120,@,New_england_6n_120,Patriots,Final: 33 - 36,CBS,Clear-day,84f Clear,0m NE,Details,3,2017
+Seahawks,Seattle_6n_120a,@,Tennessee_ntc120,Titans,Final: 27 - 33,FOX,Clear-day,88f Clear,2m S,Details,3,2017
+Bengals,Cinncinnati_6n_120,@,Greenbay_6n_120,Packers,Final: 24 - 27,CBS,Clear-day,88f Clear,7m S,Details,3,2017
+Chiefs,Kansas_city_ntc120,@,Los_angeles_2_120,Chargers,Final: 24 - 10,CBS,Clear-day,81f Clear,4m SW,Details,3,2017
+Raiders,Oakland_b_wstripe_n_120,@,Redskins,Redskins,Final: 10 - 27,NBC,Nclear-night,73f Clear,0m SE,Details,3,2017
+Cowboys,Dallas_6n120,@,Arizona_whitetail_ntc120,Cardinals,Final: 28 - 17,ESPN,Dome,DOME,2m SW,Details,3,2017
+Bears,Chicago_ntc120,@,Greenbay_6n_120,Packers,Final: 14 - 35,NFLNETWORK,Npartly-cloudy-night,64f Partly Cloudy,4m SW,Details,4,2017
+Saints,New_orleans_6n_120,@,Miami_greenmask_ntc120,Dolphins,Final: 20 - 0,FOX,Partly-cloudy-day,62f Mostly Cloudy,9m SSW,Details,4,2017
+Titans,Tennessee_ntc120,@,Houston_6n_120,Texans,Final: 14 - 57,CBS,Clear-day,84f Clear,0m E,Details,4,2017
+Jaguars,Jacksonville_6n_120,@,New_york_j_white_n120,Jets,Final: 20 - 23,CBS,Clear-day,64f Clear,1m N,Details,4,2017
+Panthers,Carolina_6n_120,@,New_england_6n_120,Patriots,Final: 33 - 30,FOX,Clear-day,61f Clear,1m NNW,Details,4,2017
+Lions,Detroit_6n_120,@,Minnesota_ntc120,Vikings,Final: 14 - 7,FOX,Dome,DOME,7m SSE,Details,4,2017
+Bills,Buffalo_red_ntc120,@,Atlanta_ntc120a,Falcons,Final: 23 - 17,CBS,Dome,DOME,7m ENE,Details,4,2017
+Steelers,Pittsburg_ntc120,@,Baltimore_ntc120,Ravens,Final: 26 - 9,CBS,Clear-day,64f Clear,1m NNE,Details,4,2017
+Bengals,Cinncinnati_6n_120,@,Cleveland_6n_120,Browns,Final: 31 - 7,CBS,Clear-day,64f Clear,2m SE,Details,4,2017
+Rams,Los_angeles_ntc120,@,Dallas_6n120,Cowboys,Final: 35 - 30,FOX,Clear-day,80f Clear,3m SSE,Details,4,2017
+Eagles,Philadelphia_6n_120,@,Los_angeles_2_120,Chargers,Final: 26 - 24,FOX,Partly-cloudy-day,74f Partly Cloudy,4m SSW,Details,4,2017
+Giants,New_york_g_6n__120,@,Tampa_bay_ntc120,Buccaneers,Final: 23 - 25,FOX,Rain,89f Rain,4m E,Details,4,2017
+49ers,San_francisco_6n_120,@,Arizona_whitetail_ntc120,Cardinals,Final: 15 - 18,FOX,Dome,DOME,2m SSE,Details,4,2017
+Raiders,Oakland_b_wstripe_n_120,@,Denver_6n_120,Broncos,Final: 10 - 16,CBS,Rain,70f Possible Drizzle,2m NNW,Details,4,2017
+Colts,Indianapolis_6n_120,@,Seattle_6n_120a,Seahawks,Final: 18 - 46,NBC,Npartly-cloudy-day,57f Mostly Cloudy,3m NNW,Details,4,2017
+Redskins,Redskins,@,Kansas_city_ntc120,Chiefs,Final: 20 - 29,ESPN,Nclear-night,78f Clear,5m SSE,Details,4,2017
+Patriots,New_england_6n_120,@,Tampa_bay_ntc120,Buccaneers,Final: 19 - 14,NFLNETWORK,Npartly-cloudy-night,77f Partly Cloudy,4m ENE,Details,5,2017
+Jets,New_york_j_white_n120,@,Cleveland_6n_120,Browns,Final: 17 - 14,FOX,Partly-cloudy-day,68f Mostly Cloudy,5m W,Details,5,2017
+Panthers,Carolina_6n_120,@,Detroit_6n_120,Lions,Final: 27 - 24,FOX,Dome,DOME,4m SSW,Details,5,2017
+49ers,San_francisco_6n_120,@,Indianapolis_6n_120,Colts,Final: 23 - 26,FOX,Dome,DOME,6m ESE,Details,5,2017
+Titans,Tennessee_ntc120,@,Miami_greenmask_ntc120,Dolphins,Final: 10 - 16,CBS,Clear-day,89f Clear,6m SE,Details,5,2017
+Bills,Buffalo_red_ntc120,@,Cinncinnati_6n_120,Bengals,Final: 16 - 20,CBS,Rain,63f Rain,2m ESE,Details,5,2017
+Chargers,Los_angeles_2_120,@,New_york_g_6n__120,Giants,Final: 27 - 22,CBS,Partly-cloudy-day,74f Humid and Mostly Cloudy,4m SW,Details,5,2017
+Jaguars,Jacksonville_6n_120,@,Pittsburg_ntc120,Steelers,Final: 30 - 9,CBS,Partly-cloudy-day,71f Mostly Cloudy,4m WSW,Details,5,2017
+Cardinals,Arizona_whitetail_ntc120,@,Philadelphia_6n_120,Eagles,Final: 7 - 34,FOX,Rain,77f Light Rain,3m SW,Details,5,2017
+Seahawks,Seattle_6n_120a,@,Los_angeles_ntc120,Rams,Final: 16 - 10,CBS,Clear-day,75f Clear,4m S,Details,5,2017
+Ravens,Baltimore_ntc120,@,Oakland_b_wstripe_n_120,Raiders,Final: 30 - 17,CBS,Clear-day,75f Clear,3m NNW,Details,5,2017
+Packers,Greenbay_6n_120,@,Dallas_6n120,Cowboys,Final: 35 - 31,FOX,Clear-day,88f Clear,2m SSW,Details,5,2017
+Chiefs,Kansas_city_ntc120,@,Houston_6n_120,Texans,Final: 42 - 34,NBC,Nclear-night,83f Clear,2m S,Details,5,2017
+Vikings,Minnesota_ntc120,@,Chicago_ntc120,Bears,Final: 20 - 17,ESPN,Nclear-night,64f Clear,3m NE,Details,5,2017
+Eagles,Philadelphia_6n_120,@,Carolina_6n_120,Panthers,Final: 28 - 23,NFLNETWORK,Npartly-cloudy-night,73f Mostly Cloudy,5m ENE,Details,6,2017
+Bears,Chicago_ntc120,@,Baltimore_ntc120,Ravens,Final: 27 - 24,FOX,Partly-cloudy-day,68f Mostly Cloudy,4m SSW,Details,6,2017
+Browns,Cleveland_6n_120,@,Houston_6n_120,Texans,Final: 17 - 33,CBS,Clear-day,85f Clear,2m N,Details,6,2017
+Packers,Greenbay_6n_120,@,Minnesota_ntc120,Vikings,Final: 10 - 23,FOX,Dome,DOME,4m WNW,Details,6,2017
+Lions,Detroit_6n_120,@,New_orleans_6n_120,Saints,Final: 38 - 52,FOX,Dome,DOME,2m SE,Details,6,2017
+Dolphins,Miami_greenmask_ntc120,@,Atlanta_ntc120a,Falcons,Final: 20 - 17,CBS,Dome,DOME,3m SW,Details,6,2017
+Patriots,New_england_6n_120,@,New_york_j_white_n120,Jets,Final: 24 - 17,CBS,Partly-cloudy-day,71f Mostly Cloudy,5m SW,Details,6,2017
+49ers,San_francisco_6n_120,@,Redskins,Redskins,Final: 24 - 26,FOX,Partly-cloudy-day,69f Mostly Cloudy,3m SSW,Details,6,2017
+Buccaneers,Tampa_bay_ntc120,@,Arizona_whitetail_ntc120,Cardinals,Final: 33 - 38,FOX,Dome,DOME,1m NE,Details,6,2017
+Rams,Los_angeles_ntc120,@,Jacksonville_6n_120,Jaguars,Final: 27 - 17,FOX,Partly-cloudy-day,84f Partly Cloudy,7m ENE,Details,6,2017
+Steelers,Pittsburg_ntc120,@,Kansas_city_ntc120,Chiefs,Final: 19 - 13,CBS,Clear-day,60f Clear,6m NW,Details,6,2017
+Chargers,Los_angeles_2_120,@,Oakland_b_wstripe_n_120,Raiders,Final: 17 - 16,CBS,Clear-day,75f Dry,1m NE,Details,6,2017
+Giants,New_york_g_6n__120,@,Denver_6n_120,Broncos,Final: 23 - 10,NBC,Nclear-night,53f Clear,0m N,Details,6,2017
+Colts,Indianapolis_6n_120,@,Tennessee_ntc120,Titans,Final: 22 - 36,ESPN,Nclear-night,53f Clear,1m NNE,Details,6,2017
+Chiefs,Kansas_city_ntc120,@,Oakland_b_wstripe_n_120,Raiders,Final: 30 - 31,NFLNETWORK,Npartly-cloudy-day,61f Partly Cloudy,4m SW,Details,7,2017
+Buccaneers,Tampa_bay_ntc120,@,Buffalo_red_ntc120,Bills,Final: 27 - 30,FOX,Clear-day,73f Clear,3m SSW,Details,7,2017
+Bengals,Cinncinnati_6n_120,@,Pittsburg_ntc120,Steelers,Final: 14 - 29,CBS,Clear-day,73f Clear,1m SSW,Details,7,2017
+Ravens,Baltimore_ntc120,@,Minnesota_ntc120,Vikings,Final: 16 - 24,CBS,Dome,DOME,3m WSW,Details,7,2017
+Jets,New_york_j_white_n120,@,Miami_greenmask_ntc120,Dolphins,Final: 28 - 31,FOX,Partly-cloudy-day,85f Humid and Partly Cloudy,9m ESE,Details,7,2017
+Cardinals,Arizona_whitetail_ntc120,@,Los_angeles_ntc120,Rams,Final: 0 - 33,FOX,Clear-night,52f Clear,4m WNW,Details,7,2017
+Panthers,Carolina_6n_120,@,Chicago_ntc120,Bears,Final: 3 - 17,FOX,Cloudy,67f Overcast,4m SSE,Details,7,2017
+Titans,Tennessee_ntc120,@,Cleveland_6n_120,Browns,Final: 12 - 9,CBS,Clear-day,74f Clear,4m SSW,Details,7,2017
+Saints,New_orleans_6n_120,@,Greenbay_6n_120,Packers,Final: 26 - 17,FOX,Partly-cloudy-day,51f Mostly Cloudy,5m WNW,Details,7,2017
+Jaguars,Jacksonville_6n_120,@,Indianapolis_6n_120,Colts,Final: 27 - 0,CBS,Dome,DOME,5m S,Details,7,2017
+Cowboys,Dallas_6n120,@,San_francisco_6n_120,49ers,Final: 40 - 10,FOX,Clear-day,69f Clear,2m NW,Details,7,2017
+Seahawks,Seattle_6n_120a,@,New_york_g_6n__120,Giants,Final: 24 - 7,CBS,Clear-day,72f Clear,2m SSE,Details,7,2017
+Broncos,Denver_6n_120,@,Los_angeles_2_120,Chargers,Final: 0 - 21,CBS,Clear-day,89f Clear,2m W,Details,7,2017
+Falcons,Atlanta_ntc120a,@,New_england_6n_120,Patriots,Final: 7 - 23,NBC,Npartly-cloudy-night,56f Partly Cloudy,0m E,Details,7,2017
+Redskins,Redskins,@,Philadelphia_6n_120,Eagles,Final: 24 - 34,ESPN,Npartly-cloudy-night,69f Partly Cloudy,3m SE,Details,7,2017
+Dolphins,Miami_greenmask_ntc120,@,Baltimore_ntc120,Ravens,Final: 0 - 40,NFLNETWORK,Nclear-night,48f Clear,0m W,Details,8,2017
+Vikings,Minnesota_ntc120,@,Cleveland_6n_120,Browns,Final: 33 - 16,NFLNETWORK,Clear-day,54f Clear,5m NNE,Details,8,2017
+Falcons,Atlanta_ntc120a,@,New_york_j_white_n120,Jets,Final: 25 - 20,FOX,Rain,62f Rain,2m ENE,Details,8,2017
+Panthers,Carolina_6n_120,@,Tampa_bay_ntc120,Buccaneers,Final: 17 - 3,FOX,Partly-cloudy-day,63f Partly Cloudy,9m NW,Details,8,2017
+49ers,San_francisco_6n_120,@,Philadelphia_6n_120,Eagles,Final: 10 - 33,FOX,Rain,63f Possible Drizzle,2m E,Details,8,2017
+Bears,Chicago_ntc120,@,New_orleans_6n_120,Saints,Final: 12 - 20,FOX,Dome,DOME,5m N,Details,8,2017
+Chargers,Los_angeles_2_120,@,New_england_6n_120,Patriots,Final: 13 - 21,CBS,Rain,61f Light Rain,1m SE,Details,8,2017
+Raiders,Oakland_b_wstripe_n_120,@,Buffalo_red_ntc120,Bills,Final: 14 - 34,CBS,Rain,39f Light Rain,2m NNE,Details,8,2017
+Colts,Indianapolis_6n_120,@,Cinncinnati_6n_120,Bengals,Final: 23 - 24,CBS,Partly-cloudy-day,39f Mostly Cloudy,1m WNW,Details,8,2017
+Texans,Houston_6n_120,@,Seattle_6n_120a,Seahawks,Final: 38 - 41,CBS,Cloudy,50f Overcast,0m NE,Details,8,2017
+Cowboys,Dallas_6n120,@,Redskins,Redskins,Final: 33 - 19,FOX,Rain,60f Possible Light Rain,0m NNE,Details,8,2017
+Steelers,Pittsburg_ntc120,@,Detroit_6n_120,Lions,Final: 20 - 15,NBC,Dome,DOME,2m NW,Details,8,2017
+Broncos,Denver_6n_120,@,Kansas_city_ntc120,Chiefs,Final: 19 - 29,ESPN,Nclear-night,41f Clear,3m NNW,Details,8,2017
+Bills,Buffalo_red_ntc120,@,New_york_j_white_n120,Jets,Final: 21 - 34,NFLNETWORK,Nclear-night,64f Clear,2m S,Details,9,2017
+Colts,Indianapolis_6n_120,@,Houston_6n_120,Texans,Final: 20 - 14,CBS,Partly-cloudy-day,82f Humid and Partly Cloudy,4m SW,Details,9,2017
+Bengals,Cinncinnati_6n_120,@,Jacksonville_6n_120,Jaguars,Final: 7 - 23,CBS,Partly-cloudy-day,77f Mostly Cloudy,4m NE,Details,9,2017
+Buccaneers,Tampa_bay_ntc120,@,New_orleans_6n_120,Saints,Final: 10 - 30,FOX,Dome,DOME,3m SSW,Details,9,2017
+Rams,Los_angeles_ntc120,@,New_york_g_6n__120,Giants,Final: 51 - 17,FOX,Cloudy,56f Overcast,1m ENE,Details,9,2017
+Falcons,Atlanta_ntc120a,@,Carolina_6n_120,Panthers,Final: 17 - 20,FOX,Cloudy,58f Overcast,0m SSE,Details,9,2017
+Broncos,Denver_6n_120,@,Philadelphia_6n_120,Eagles,Final: 23 - 51,CBS,Cloudy,62f Overcast,1m SE,Details,9,2017
+Ravens,Baltimore_ntc120,@,Tennessee_ntc120,Titans,Final: 20 - 23,CBS,Partly-cloudy-day,75f Mostly Cloudy,8m SSW,Details,9,2017
+Cardinals,Arizona_whitetail_ntc120,@,San_francisco_6n_120,49ers,Final: 20 - 10,FOX,Clear-day,57f Clear,1m NW,Details,9,2017
+Redskins,Redskins,@,Seattle_6n_120a,Seahawks,Final: 17 - 14,FOX,Rain,35f Light Rain,4m NNW,Details,9,2017
+Chiefs,Kansas_city_ntc120,@,Dallas_6n120,Cowboys,Final: 17 - 28,CBS,Clear-day,90f Clear,4m SW,Details,9,2017
+Raiders,Oakland_b_wstripe_n_120,@,Miami_greenmask_ntc120,Dolphins,Final: 27 - 24,NBC,Nclear-night,76f Clear,0m NE,Details,9,2017
+Lions,Detroit_6n_120,@,Greenbay_6n_120,Packers,Final: 30 - 17,ESPN,Nclear-night,34f Clear,1m W,Details,9,2017
+Seahawks,Seattle_6n_120a,@,Arizona_whitetail_ntc120,Cardinals,Final: 22 - 16,NFLNETWORK,Dome,DOME,1m WSW,Details,10,2017
+Packers,Greenbay_6n_120,@,Chicago_ntc120,Bears,Final: 23 - 16,FOX,Rain,39f Light Rain,0m NNW,Details,10,2017
+Browns,Cleveland_6n_120,@,Detroit_6n_120,Lions,Final: 24 - 38,CBS,Dome,DOME,1m SSW,Details,10,2017
+Steelers,Pittsburg_ntc120,@,Indianapolis_6n_120,Colts,Final: 20 - 17,CBS,Dome,DOME,0m NE,Details,10,2017
+Chargers,Los_angeles_2_120,@,Jacksonville_6n_120,Jaguars,Final: 17 - 20,CBS,Rain,75f Drizzle,5m NE,Details,10,2017
+Saints,New_orleans_6n_120,@,Buffalo_red_ntc120,Bills,Final: 47 - 10,FOX,Partly-cloudy-day,37f Mostly Cloudy,0m SSW,Details,10,2017
+Jets,New_york_j_white_n120,@,Tampa_bay_ntc120,Buccaneers,Final: 10 - 15,CBS,Partly-cloudy-day,76f Mostly Cloudy,6m ENE,Details,10,2017
+Vikings,Minnesota_ntc120,@,Redskins,Redskins,Final: 38 - 30,FOX,Clear-day,43f Clear,1m SSW,Details,10,2017
+Bengals,Cinncinnati_6n_120,@,Tennessee_ntc120,Titans,Final: 20 - 24,FOX,Partly-cloudy-day,52f Mostly Cloudy,2m S,Details,10,2017
+Texans,Houston_6n_120,@,Los_angeles_ntc120,Rams,Final: 7 - 33,CBS,Clear-day,66f Clear,0m SW,Details,10,2017
+Cowboys,Dallas_6n120,@,Atlanta_ntc120a,Falcons,Final: 7 - 27,FOX,Dome,DOME,1m NE,Details,10,2017
+Giants,New_york_g_6n__120,@,San_francisco_6n_120,49ers,Final: 21 - 31,FOX,Clear-day,63f Clear,0m N,Details,10,2017
+Patriots,New_england_6n_120,@,Denver_6n_120,Broncos,Final: 41 - 16,NBC,Nclear-night,48f Clear,0m WNW,Details,10,2017
+Dolphins,Miami_greenmask_ntc120,@,Carolina_6n_120,Panthers,Final: 21 - 45,ESPN,Nclear-night,52f Clear,9m NNE,Details,10,2017
+Titans,Tennessee_ntc120,@,Pittsburg_ntc120,Steelers,Final: 17 - 40,NFLNETWORK,Npartly-cloudy-night,37f Mostly Cloudy,2m W,Details,11,2017
+Buccaneers,Tampa_bay_ntc120,@,Miami_greenmask_ntc120,Dolphins,Final: 30 - 20,FOX,Clear-day,80f Clear,4m W,Details,11,2017
+Jaguars,Jacksonville_6n_120,@,Cleveland_6n_120,Browns,Final: 19 - 7,CBS,Rain,38f Light Rain,8m WNW,Details,11,2017
+Ravens,Baltimore_ntc120,@,Greenbay_6n_120,Packers,Final: 23 - 0,CBS,Partly-cloudy-day,26f Partly Cloudy,6m WNW,Details,11,2017
+Cardinals,Arizona_whitetail_ntc120,@,Houston_6n_120,Texans,Final: 21 - 31,FOX,Clear-day,59f Clear,5m NNE,Details,11,2017
+Rams,Los_angeles_ntc120,@,Minnesota_ntc120,Vikings,Final: 7 - 24,FOX,Dome,DOME,3m SW,Details,11,2017
+Lions,Detroit_6n_120,@,Chicago_ntc120,Bears,Final: 27 - 24,FOX,Partly-cloudy-day,31f Partly Cloudy,6m WNW,Details,11,2017
+Redskins,Redskins,@,New_orleans_6n_120,Saints,Final: 31 - 34,FOX,Dome,DOME,8m N,Details,11,2017
+Chiefs,Kansas_city_ntc120,@,New_york_g_6n__120,Giants,Final: 9 - 12,CBS,Partly-cloudy-day,49f Mostly Cloudy,8m WNW,Details,11,2017
+Bills,Buffalo_red_ntc120,@,Los_angeles_2_120,Chargers,Final: 24 - 54,FOX,Clear-day,72f Clear,1m WSW,Details,11,2017
+Bengals,Cinncinnati_6n_120,@,Denver_6n_120,Broncos,Final: 20 - 17,CBS,Clear-day,59f Clear,0m WSW,Details,11,2017
+Patriots,New_england_6n_120,@,Oakland_b_wstripe_n_120,Raiders,Final: 33 - 8,CBS,Partly-cloudy-day,64f Mostly Cloudy,3m NNW,Details,11,2017
+Eagles,Philadelphia_6n_120,@,Dallas_6n120,Cowboys,Final: 37 - 9,NBC,Nclear-night,52f Clear,0m ESE,Details,11,2017
+Falcons,Atlanta_ntc120a,@,Seattle_6n_120a,Seahawks,Final: 34 - 31,ESPN,Npartly-cloudy-night,46f Partly Cloudy,1m ENE,Details,11,2017
+Vikings,Minnesota_ntc120,@,Detroit_6n_120,Lions,Final: 30 - 23,FOX,Dome,DOME,7m SW,Details,12,2017
+Chargers,Los_angeles_2_120,@,Dallas_6n120,Cowboys,Final: 28 - 6,CBS,Clear-day,67f Clear,1m S,Details,12,2017
+Giants,New_york_g_6n__120,@,Redskins,Redskins,Final: 10 - 20,NBC,Nclear-night,32f Clear,0m SSE,Details,12,2017
+Bills,Buffalo_red_ntc120,@,Kansas_city_ntc120,Chiefs,Final: 16 - 10,CBS,Clear-day,58f Clear,3m SSW,Details,12,2017
+Titans,Tennessee_ntc120,@,Indianapolis_6n_120,Colts,Final: 20 - 16,CBS,Dome,DOME,3m W,Details,12,2017
+Browns,Cleveland_6n_120,@,Cinncinnati_6n_120,Bengals,Final: 16 - 30,CBS,Clear-day,46f Clear,2m WSW,Details,12,2017
+Buccaneers,Tampa_bay_ntc120,@,Atlanta_ntc120a,Falcons,Final: 20 - 34,FOX,Dome,DOME,4m NNW,Details,12,2017
+Dolphins,Miami_greenmask_ntc120,@,New_england_6n_120,Patriots,Final: 17 - 35,CBS,Partly-cloudy-day,46f Partly Cloudy,4m WNW,Details,12,2017
+Bears,Chicago_ntc120,@,Philadelphia_6n_120,Eagles,Final: 3 - 31,FOX,Clear-day,48f Clear,5m NW,Details,12,2017
+Panthers,Carolina_6n_120,@,New_york_j_white_n120,Jets,Final: 35 - 27,FOX,Clear-day,46f Clear,6m WNW,Details,12,2017
+Seahawks,Seattle_6n_120a,@,San_francisco_6n_120,49ers,Final: 24 - 13,FOX,Partly-cloudy-day,63f Partly Cloudy,4m SSE,Details,12,2017
+Saints,New_orleans_6n_120,@,Los_angeles_ntc120,Rams,Final: 20 - 26,CBS,Clear-day,67f Clear,2m SW,Details,12,2017
+Jaguars,Jacksonville_6n_120,@,Arizona_whitetail_ntc120,Cardinals,Final: 24 - 27,CBS,Dome,DOME,0m SSW,Details,12,2017
+Broncos,Denver_6n_120,@,Oakland_b_wstripe_n_120,Raiders,Final: 14 - 21,CBS,Partly-cloudy-day,61f Partly Cloudy,6m S,Details,12,2017
+Packers,Greenbay_6n_120,@,Pittsburg_ntc120,Steelers,Final: 28 - 31,NBC,Nclear-night,36f Clear,1m SW,Details,12,2017
+Texans,Houston_6n_120,@,Baltimore_ntc120,Ravens,Final: 16 - 23,ESPN,Nclear-night,44f Clear,0m SE,Details,12,2017
+Redskins,Redskins,@,Dallas_6n120,Cowboys,Final: 14 - 38,NFLNETWORK,Nclear-night,58f Clear,0m NNE,Details,13,2017
+Vikings,Minnesota_ntc120,@,Atlanta_ntc120a,Falcons,Final: 14 - 9,FOX,Dome,DOME,1m NNE,Details,13,2017
+Texans,Houston_6n_120,@,Tennessee_ntc120,Titans,Final: 13 - 24,CBS,Clear-day,59f Clear,2m ESE,Details,13,2017
+Chiefs,Kansas_city_ntc120,@,New_york_j_white_n120,Jets,Final: 31 - 38,CBS,Partly-cloudy-day,46f Mostly Cloudy,0m E,Details,13,2017
+Broncos,Denver_6n_120,@,Miami_greenmask_ntc120,Dolphins,Final: 9 - 35,CBS,Clear-day,80f Clear,5m ENE,Details,13,2017
+Lions,Detroit_6n_120,@,Baltimore_ntc120,Ravens,Final: 20 - 44,FOX,Clear-day,51f Clear,1m WSW,Details,13,2017
+Patriots,New_england_6n_120,@,Buffalo_red_ntc120,Bills,Final: 23 - 3,CBS,Clear-day,46f Clear,2m SW,Details,13,2017
+49ers,San_francisco_6n_120,@,Chicago_ntc120,Bears,Final: 15 - 14,CBS,Clear-day,50f Clear,2m SSW,Details,13,2017
+Buccaneers,Tampa_bay_ntc120,@,Greenbay_6n_120,Packers,Final: 20 - 26,FOX,Clear-day,41f Clear,1m S,Details,13,2017
+Colts,Indianapolis_6n_120,@,Jacksonville_6n_120,Jaguars,Final: 10 - 30,CBS,Partly-cloudy-day,67f Mostly Cloudy,2m NNE,Details,13,2017
+Browns,Cleveland_6n_120,@,Los_angeles_2_120,Chargers,Final: 10 - 19,CBS,Clear-day,66f Clear,2m SSW,Details,13,2017
+Panthers,Carolina_6n_120,@,New_orleans_6n_120,Saints,Final: 21 - 31,FOX,Dome,DOME,3m NE,Details,13,2017
+Giants,New_york_g_6n__120,@,Oakland_b_wstripe_n_120,Raiders,Final: 17 - 24,FOX,Clear-day,55f Clear,3m NW,Details,13,2017
+Rams,Los_angeles_ntc120,@,Arizona_whitetail_ntc120,Cardinals,Final: 32 - 16,FOX,Dome,DOME,3m SSE,Details,13,2017
+Eagles,Philadelphia_6n_120,@,Seattle_6n_120a,Seahawks,Final: 10 - 24,NBC,Npartly-cloudy-night,42f Mostly Cloudy,0m N,Details,13,2017
+Steelers,Pittsburg_ntc120,@,Cinncinnati_6n_120,Bengals,Final: 23 - 20,ESPN,Npartly-cloudy-night,60f Partly Cloudy,3m SSE,Details,13,2017
+Saints,New_orleans_6n_120,@,Atlanta_ntc120a,Falcons,Final: 17 - 20,NFLNETWORK,Dome,DOME,1m WNW,Details,14,2017
+Colts,Indianapolis_6n_120,@,Buffalo_red_ntc120,Bills,Final: 7 - 13,CBS,Snow,26f Flurries,4m W,Details,14,2017
+Lions,Detroit_6n_120,@,Tampa_bay_ntc120,Buccaneers,Final: 24 - 21,FOX,Clear-day,53f Clear,4m N,Details,14,2017
+Raiders,Oakland_b_wstripe_n_120,@,Kansas_city_ntc120,Chiefs,Final: 15 - 26,CBS,Clear-day,47f Clear,5m NW,Details,14,2017
+Seahawks,Seattle_6n_120a,@,Jacksonville_6n_120,Jaguars,Final: 24 - 30,FOX,Clear-day,46f Clear,2m NW,Details,14,2017
+49ers,San_francisco_6n_120,@,Houston_6n_120,Texans,Final: 26 - 16,FOX,Clear-day,57f Clear,0m SE,Details,14,2017
+Packers,Greenbay_6n_120,@,Cleveland_6n_120,Browns,Final: 27 - 21,FOX,Partly-cloudy-day,28f Mostly Cloudy,9m WSW,Details,14,2017
+Bears,Chicago_ntc120,@,Cinncinnati_6n_120,Bengals,Final: 33 - 7,FOX,Partly-cloudy-day,30f Mostly Cloudy,4m SSW,Details,14,2017
+Vikings,Minnesota_ntc120,@,Carolina_6n_120,Panthers,Final: 24 - 31,CBS,Clear-day,39f Clear,2m W,Details,14,2017
+Redskins,Redskins,@,Los_angeles_2_120,Chargers,Final: 13 - 30,CBS,Clear-day,79f Clear,2m NNE,Details,14,2017
+Jets,New_york_j_white_n120,@,Denver_6n_120,Broncos,Final: 0 - 23,CBS,Clear-day,58f Clear,0m SSW,Details,14,2017
+Titans,Tennessee_ntc120,@,Arizona_whitetail_ntc120,Cardinals,Final: 7 - 12,CBS,Dome,DOME,4m ENE,Details,14,2017
+Cowboys,Dallas_6n120,@,New_york_g_6n__120,Giants,Final: 30 - 10,FOX,Rain,37f Drizzle,5m WSW,Details,14,2017
+Eagles,Philadelphia_6n_120,@,Los_angeles_ntc120,Rams,Final: 43 - 35,FOX,Clear-day,79f Clear,1m NNE,Details,14,2017
+Ravens,Baltimore_ntc120,@,Pittsburg_ntc120,Steelers,Final: 38 - 39,NBC,Npartly-cloudy-night,30f Mostly Cloudy,3m SW,Details,14,2017
+Patriots,New_england_6n_120,@,Miami_greenmask_ntc120,Dolphins,Final: 20 - 27,ESPN,Nclear-night,56f Clear,3m NW,Details,14,2017
+Broncos,Denver_6n_120,@,Indianapolis_6n_120,Colts,Final: 25 - 13,NFLNETWORK,Dome,DOME,0m SSE,Details,15,2017
+Bears,Chicago_ntc120,@,Detroit_6n_120,Lions,Final: 10 - 20,NFLNETWORK,Dome,DOME,5m NE,Details,15,2017
+Chargers,Los_angeles_2_120,@,Kansas_city_ntc120,Chiefs,Final: 13 - 30,NFLNETWORK,Nclear-night,50f Clear,2m S,Details,15,2017
+Texans,Houston_6n_120,@,Jacksonville_6n_120,Jaguars,Final: 7 - 45,CBS,Clear-day,68f Clear,2m ESE,Details,15,2017
+Ravens,Baltimore_ntc120,@,Cleveland_6n_120,Browns,Final: 27 - 10,CBS,Clear-day,34f Clear,1m ESE,Details,15,2017
+Packers,Greenbay_6n_120,@,Carolina_6n_120,Panthers,Final: 24 - 31,FOX,Partly-cloudy-day,48f Partly Cloudy,1m WSW,Details,15,2017
+Dolphins,Miami_greenmask_ntc120,@,Buffalo_red_ntc120,Bills,Final: 16 - 24,CBS,Cloudy,25f Overcast,0m NE,Details,15,2017
+Bengals,Cinncinnati_6n_120,@,Minnesota_ntc120,Vikings,Final: 7 - 34,CBS,Dome,DOME,0m ESE,Details,15,2017
+Cardinals,Arizona_whitetail_ntc120,@,Redskins,Redskins,Final: 15 - 20,FOX,Clear-day,47f Clear,0m SSW,Details,15,2017
+Eagles,Philadelphia_6n_120,@,New_york_g_6n__120,Giants,Final: 34 - 29,FOX,Cloudy,34f Overcast,0m N,Details,15,2017
+Jets,New_york_j_white_n120,@,New_orleans_6n_120,Saints,Final: 19 - 31,CBS,Dome,DOME,1m WSW,Details,15,2017
+Rams,Los_angeles_ntc120,@,Seattle_6n_120a,Seahawks,Final: 42 - 7,FOX,Partly-cloudy-day,46f Mostly Cloudy,5m S,Details,15,2017
+Titans,Tennessee_ntc120,@,San_francisco_6n_120,49ers,Final: 23 - 25,CBS,Clear-day,60f Clear,2m N,Details,15,2017
+Patriots,New_england_6n_120,@,Pittsburg_ntc120,Steelers,Final: 27 - 24,CBS,Rain,40f Rain,0m S,Details,15,2017
+Cowboys,Dallas_6n120,@,Oakland_b_wstripe_n_120,Raiders,Final: 20 - 17,NBC,Nclear-day,59f Clear,0m N,Details,15,2017
+Falcons,Atlanta_ntc120a,@,Tampa_bay_ntc120,Buccaneers,Final: 24 - 21,ESPN,Nclear-night,70f Clear,1m NNW,Details,15,2017
+Colts,Indianapolis_6n_120,@,Baltimore_ntc120,Ravens,Final: 16 - 23,NFLNETWORK,Rain,61f Drizzle,5m SSW,Details,16,2017
+Vikings,Minnesota_ntc120,@,Greenbay_6n_120,Packers,Final: 16 - 0,NBC,Nclear-night,9f Clear,1m SW,Details,16,2017
+Lions,Detroit_6n_120,@,Cinncinnati_6n_120,Bengals,Final: 17 - 26,FOX,Partly-cloudy-day,35f Mostly Cloudy,2m SSE,Details,16,2017
+Dolphins,Miami_greenmask_ntc120,@,Kansas_city_ntc120,Chiefs,Final: 13 - 29,CBS,Partly-cloudy-day,22f Mostly Cloudy,5m NW,Details,16,2017
+Bills,Buffalo_red_ntc120,@,New_england_6n_120,Patriots,Final: 16 - 37,CBS,Clear-day,34f Clear,1m N,Details,16,2017
+Browns,Cleveland_6n_120,@,Chicago_ntc120,Bears,Final: 3 - 20,CBS,Snow,21f Light Snow,0m NW,Details,16,2017
+Buccaneers,Tampa_bay_ntc120,@,Carolina_6n_120,Panthers,Final: 19 - 22,FOX,Partly-cloudy-day,53f Mostly Cloudy,1m ENE,Details,16,2017
+Falcons,Atlanta_ntc120a,@,New_orleans_6n_120,Saints,Final: 13 - 23,FOX,Dome,DOME,1m WNW,Details,16,2017
+Broncos,Denver_6n_120,@,Redskins,Redskins,Final: 11 - 27,CBS,Partly-cloudy-day,41f Partly Cloudy,2m NE,Details,16,2017
+Rams,Los_angeles_ntc120,@,Tennessee_ntc120,Titans,Final: 27 - 23,FOX,Partly-cloudy-day,41f Mostly Cloudy,2m WSW,Details,16,2017
+Chargers,Los_angeles_2_120,@,New_york_j_white_n120,Jets,Final: 14 - 7,CBS,Clear-day,38f Clear,3m NE,Details,16,2017
+Jaguars,Jacksonville_6n_120,@,San_francisco_6n_120,49ers,Final: 33 - 44,CBS,Partly-cloudy-day,52f Partly Cloudy,0m SSE,Details,16,2017
+Seahawks,Seattle_6n_120a,@,Dallas_6n120,Cowboys,Final: 21 - 12,FOX,Partly-cloudy-day,43f Partly Cloudy,6m N,Details,16,2017
+Giants,New_york_g_6n__120,@,Arizona_whitetail_ntc120,Cardinals,Final: 0 - 23,FOX,Dome,DOME,0m S,Details,16,2017
+Steelers,Pittsburg_ntc120,@,Houston_6n_120,Texans,Final: 34 - 6,NFLNETWORK,Partly-cloudy-day,51f Mostly Cloudy,4m ESE,Details,16,2017
+Raiders,Oakland_b_wstripe_n_120,@,Philadelphia_6n_120,Eagles,Final: 10 - 19,ESPN,Nclear-night,28f Clear,5m W,Details,16,2017
+Browns,Cleveland_6n_120,@,Pittsburg_ntc120,Steelers,Final: 24 - 28,CBS,Partly-cloudy-day,9f Mostly Cloudy,0m WSW,Details,17,2017
+Packers,Greenbay_6n_120,@,Detroit_6n_120,Lions,Final: 11 - 35,FOX,Dome,DOME,5m NNW,Details,17,2017
+Texans,Houston_6n_120,@,Indianapolis_6n_120,Colts,Final: 13 - 22,CBS,Dome,DOME,3m NNW,Details,17,2017
+Bears,Chicago_ntc120,@,Minnesota_ntc120,Vikings,Final: 10 - 23,FOX,Dome,DOME,4m NW,Details,17,2017
+Jets,New_york_j_white_n120,@,New_england_6n_120,Patriots,Final: 6 - 26,CBS,Clear-day,11f Clear,5m NW,Details,17,2017
+Redskins,Redskins,@,New_york_g_6n__120,Giants,Final: 10 - 18,FOX,Clear-day,15f Clear,6m NW,Details,17,2017
+Cowboys,Dallas_6n120,@,Philadelphia_6n_120,Eagles,Final: 6 - 0,FOX,Partly-cloudy-day,15f Partly Cloudy,4m NNW,Details,17,2017
+Panthers,Carolina_6n_120,@,Atlanta_ntc120a,Falcons,Final: 10 - 22,FOX,Dome,DOME,3m NW,Details,17,2017
+Bengals,Cinncinnati_6n_120,@,Baltimore_ntc120,Ravens,Final: 31 - 27,CBS,Partly-cloudy-day,18f Mostly Cloudy,5m NNW,Details,17,2017
+Jaguars,Jacksonville_6n_120,@,Tennessee_ntc120,Titans,Final: 10 - 15,CBS,Partly-cloudy-day,22f Mostly Cloudy,7m NNW,Details,17,2017
+Saints,New_orleans_6n_120,@,Tampa_bay_ntc120,Buccaneers,Final: 24 - 31,FOX,Clear-day,69f Clear,1m SSE,Details,17,2017
+Bills,Buffalo_red_ntc120,@,Miami_greenmask_ntc120,Dolphins,Final: 22 - 16,CBS,Clear-day,71f Clear,4m NE,Details,17,2017
+Raiders,Oakland_b_wstripe_n_120,@,Los_angeles_2_120,Chargers,Final: 10 - 30,CBS,Clear-day,62f Clear,0m SSW,Details,17,2017
+Chiefs,Kansas_city_ntc120,@,Denver_6n_120,Broncos,Final: 27 - 24,CBS,Partly-cloudy-day,16f Mostly Cloudy,3m NNE,Details,17,2017
+49ers,San_francisco_6n_120,@,Los_angeles_ntc120,Rams,Final: 34 - 13,FOX,Clear-day,63f Clear,0m SSW,Details,17,2017
+Cardinals,Arizona_whitetail_ntc120,@,Seattle_6n_120a,Seahawks,Final: 26 - 24,FOX,Clear-day,39f Clear,3m N,Details,17,2017
+Falcons,Atlanta_ntc120a,@,Philadelphia_6n_120,Eagles,Final: 12 - 18,NBC,Nrain,81f Rain,2m NW,Details,1,2018
+Bills,Buffalo_red_ntc120,@,Baltimore_ntc120,Ravens,Final: 3 - 47,CBS,Rain,62f Light Rain,11m ENE,Details,1,2018
+Jaguars,Jacksonville_6n_120,@,New_york_g_6n__120,Giants,Final: 20 - 15,FOX,Rain,58f Light Rain,4m NE,Details,1,2018
+Buccaneers,Tampa_bay_ntc120,@,New_orleans_6n_120,Saints,Final: 48 - 40,FOX,Dome,DOME,1m WSW,Details,1,2018
+Texans,Houston_6n_120,@,New_england_6n_120,Patriots,Final: 20 - 27,CBS,Partly-cloudy-day,62f Mostly Cloudy,6m ENE,Details,1,2018
+49ers,San_francisco_6n_120,@,Minnesota_ntc120,Vikings,Final: 16 - 24,FOX,Dome,DOME,9m SSE,Details,1,2018
+Titans,Tennessee_ntc120,@,Miami_greenmask_ntc120,Dolphins,Final: 20 - 27,FOX,Rain,88f Rain,4m SW,Details,1,2018
+Bengals,Cinncinnati_6n_120,@,Indianapolis_6n_120,Colts,Final: 34 - 23,CBS,Dome,DOME,9m NE,Details,1,2018
+Steelers,Pittsburg_ntc120,@,Cleveland_6n_120,Browns,Final: 21 - 21,CBS,Rain,59f Light Rain,4m ENE,Details,1,2018
+Chiefs,Kansas_city_ntc120,@,Los_angeles_2_120,Chargers,Final: 38 - 28,CBS,Clear-day,85f Clear,5m SSW,Details,1,2018
+Seahawks,Seattle_6n_120a,@,Denver_6n_120,Broncos,Final: 24 - 27,FOX,Clear-day,85f Clear,3m NE,Details,1,2018
+Cowboys,Dallas_6n120,@,Carolina_6n_120,Panthers,Final: 8 - 16,FOX,Rain,83f Drizzle,6m NE,Details,1,2018
+Redskins,Redskins,@,Arizona_whitetail_ntc120,Cardinals,Final: 24 - 6,FOX,Dome,DOME,3m WSW,Details,1,2018
+Bears,Chicago_ntc120,@,Greenbay_6n_120,Packers,Final: 23 - 24,NBC,Nclear-night,60f Clear,4m NE,Details,1,2018
+Jets,New_york_j_white_n120,@,Detroit_6n_120,Lions,Final: 48 - 17,ESPN,Dome,DOME,7m N,Details,1,2018
+Rams,Los_angeles_ntc120,@,Oakland_b_wstripe_n_120,Raiders,Final: 33 - 13,ESPN,Nclear-day,71f Clear,5m WSW,Details,1,2018
+Ravens,Baltimore_ntc120,@,Cinncinnati_6n_120,Bengals,Final: 23 - 34,NFLNETWORK,Nclear-night,75f Clear,0m NNW,Details,2,2018
+Panthers,Carolina_6n_120,@,Atlanta_ntc120a,Falcons,Final: 24 - 31,FOX,Dome,DOME,5m NW,Details,2,2018
+Colts,Indianapolis_6n_120,@,Redskins,Redskins,Final: 21 - 9,CBS,Partly-cloudy-day,73f Mostly Cloudy,5m ENE,Details,2,2018
+Texans,Houston_6n_120,@,Tennessee_ntc120,Titans,Final: 17 - 20,CBS,Partly-cloudy-day,81f Partly Cloudy,7m NNE,Details,2,2018
+Eagles,Philadelphia_6n_120,@,Tampa_bay_ntc120,Buccaneers,Final: 21 - 27,FOX,Partly-cloudy-day,89f Humid and Partly Cloudy,8m SW,Details,2,2018
+Chiefs,Kansas_city_ntc120,@,Pittsburg_ntc120,Steelers,Final: 42 - 37,CBS,Partly-cloudy-day,79f Mostly Cloudy,7m ESE,Details,2,2018
+Dolphins,Miami_greenmask_ntc120,@,New_york_j_white_n120,Jets,Final: 20 - 12,CBS,Clear-day,82f Clear,3m SE,Details,2,2018
+Chargers,Los_angeles_2_120,@,Buffalo_red_ntc120,Bills,Final: 31 - 20,CBS,Clear-day,79f Clear,7m S,Details,2,2018
+Vikings,Minnesota_ntc120,@,Greenbay_6n_120,Packers,Final: 29 - 29,FOX,Partly-cloudy-day,78f Partly Cloudy,5m SSE,Details,2,2018
+Browns,Cleveland_6n_120,@,New_orleans_6n_120,Saints,Final: 18 - 21,FOX,Dome,DOME,1m NW,Details,2,2018
+Lions,Detroit_6n_120,@,San_francisco_6n_120,49ers,Final: 27 - 30,FOX,Clear-day,72f Clear,5m NW,Details,2,2018
+Cardinals,Arizona_whitetail_ntc120,@,Los_angeles_ntc120,Rams,Final: 0 - 34,FOX,Clear-day,85f Clear,4m SSW,Details,2,2018
+Patriots,New_england_6n_120,@,Jacksonville_6n_120,Jaguars,Final: 20 - 31,CBS,Rain,93f Drizzle,7m SW,Details,2,2018
+Raiders,Oakland_b_wstripe_n_120,@,Denver_6n_120,Broncos,Final: 19 - 20,CBS,Clear-day,90f Clear,3m ESE,Details,2,2018
+Giants,New_york_g_6n__120,@,Dallas_6n120,Cowboys,Final: 13 - 20,NBC,Npartly-cloudy-day,87f Partly Cloudy,2m E,Details,2,2018
+Seahawks,Seattle_6n_120a,@,Chicago_ntc120,Bears,Final: 17 - 24,ESPN,Nclear-night,80f Clear,2m E,Details,2,2018
+Jets,New_york_j_white_n120,@,Cleveland_6n_120,Browns,Final: 17 - 21,NFLNETWORK,Nclear-night,78f Humid,3m SSE,Details,3,2018
+Saints,New_orleans_6n_120,@,Atlanta_ntc120a,Falcons,Final: 43 - 37,FOX,Dome,DOME,3m SE,Details,3,2018
+Packers,Greenbay_6n_120,@,Redskins,Redskins,Final: 17 - 31,FOX,Rain,63f Light Rain,4m ENE,Details,3,2018
+Colts,Indianapolis_6n_120,@,Philadelphia_6n_120,Eagles,Final: 16 - 20,FOX,Rain,61f Rain,3m NE,Details,3,2018
+Bills,Buffalo_red_ntc120,@,Minnesota_ntc120,Vikings,Final: 27 - 6,CBS,Dome,DOME,6m SSE,Details,3,2018
+Raiders,Oakland_b_wstripe_n_120,@,Miami_greenmask_ntc120,Dolphins,Final: 20 - 28,CBS,Partly-cloudy-day,88f Humid and Partly Cloudy,6m ESE,Details,3,2018
+Broncos,Denver_6n_120,@,Baltimore_ntc120,Ravens,Final: 14 - 27,CBS,Rain,62f Light Rain,4m ENE,Details,3,2018
+Bengals,Cinncinnati_6n_120,@,Carolina_6n_120,Panthers,Final: 21 - 31,CBS,Partly-cloudy-day,81f Mostly Cloudy,1m ESE,Details,3,2018
+Giants,New_york_g_6n__120,@,Houston_6n_120,Texans,Final: 27 - 22,FOX,Partly-cloudy-day,79f Mostly Cloudy,7m WSW,Details,3,2018
+Titans,Tennessee_ntc120,@,Jacksonville_6n_120,Jaguars,Final: 9 - 6,CBS,Partly-cloudy-day,87f Mostly Cloudy,5m ESE,Details,3,2018
+49ers,San_francisco_6n_120,@,Kansas_city_ntc120,Chiefs,Final: 27 - 38,FOX,Clear-day,72f Clear,4m ESE,Details,3,2018
+Chargers,Los_angeles_2_120,@,Los_angeles_ntc120,Rams,Final: 23 - 35,CBS,Clear-day,79f Clear,4m SW,Details,3,2018
+Cowboys,Dallas_6n120,@,Seattle_6n_120a,Seahawks,Final: 13 - 24,FOX,Partly-cloudy-day,62f Partly Cloudy,1m S,Details,3,2018
+Bears,Chicago_ntc120,@,Arizona_whitetail_ntc120,Cardinals,Final: 16 - 14,FOX,Dome,DOME,4m SE,Details,3,2018
+Patriots,New_england_6n_120,@,Detroit_6n_120,Lions,Final: 10 - 26,NBC,Dome,DOME,5m ENE,Details,3,2018
+Steelers,Pittsburg_ntc120,@,Tampa_bay_ntc120,Buccaneers,Final: 30 - 27,ESPN,Npartly-cloudy-night,77f Humid and Mostly Cloudy,3m N,Details,3,2018
+Vikings,Minnesota_ntc120,@,Los_angeles_ntc120,Rams,Final: 31 - 38,NFLNETWORK,Nclear-day,83f Clear,3m WSW,Details,4,2018
+Jets,New_york_j_white_n120,@,Jacksonville_6n_120,Jaguars,Final: 12 - 31,FOX,Partly-cloudy-day,86f Humid and Mostly Cloudy,10m ENE,Details,4,2018
+Dolphins,Miami_greenmask_ntc120,@,New_england_6n_120,Patriots,Final: 7 - 38,CBS,Clear-day,66f Clear,3m W,Details,4,2018
+Eagles,Philadelphia_6n_120,@,Tennessee_ntc120,Titans,Final: 23 - 26,FOX,Clear-day,80f Clear,0m N,Details,4,2018
+Texans,Houston_6n_120,@,Indianapolis_6n_120,Colts,Final: 37 - 34,CBS,Dome,DOME,7m SSW,Details,4,2018
+Bills,Buffalo_red_ntc120,@,Greenbay_6n_120,Packers,Final: 0 - 22,CBS,Cloudy,48f Overcast,4m ENE,Details,4,2018
+Lions,Detroit_6n_120,@,Dallas_6n120,Cowboys,Final: 24 - 26,FOX,Partly-cloudy-day,79f Mostly Cloudy,6m SE,Details,4,2018
+Buccaneers,Tampa_bay_ntc120,@,Chicago_ntc120,Bears,Final: 10 - 48,FOX,Cloudy,64f Overcast,1m NW,Details,4,2018
+Bengals,Cinncinnati_6n_120,@,Atlanta_ntc120a,Falcons,Final: 37 - 36,CBS,Dome,DOME,4m E,Details,4,2018
+Seahawks,Seattle_6n_120a,@,Arizona_whitetail_ntc120,Cardinals,Final: 20 - 17,FOX,Dome,DOME,4m SW,Details,4,2018
+Browns,Cleveland_6n_120,@,Oakland_b_wstripe_n_120,Raiders,Final: 42 - 45,FOX,Clear-day,71f Clear,2m WNW,Details,4,2018
+Saints,New_orleans_6n_120,@,New_york_g_6n__120,Giants,Final: 33 - 18,CBS,Partly-cloudy-day,69f Partly Cloudy,4m S,Details,4,2018
+49ers,San_francisco_6n_120,@,Los_angeles_2_120,Chargers,Final: 27 - 29,CBS,Partly-cloudy-day,82f Partly Cloudy,4m SW,Details,4,2018
+Ravens,Baltimore_ntc120,@,Pittsburg_ntc120,Steelers,Final: 26 - 14,NBC,Nclear-night,66f Clear,0m N,Details,4,2018
+Chiefs,Kansas_city_ntc120,@,Denver_6n_120,Broncos,Final: 27 - 23,ESPN,Npartly-cloudy-day,65f Mostly Cloudy,2m N,Details,4,2018
+Colts,Indianapolis_6n_120,@,New_england_6n_120,Patriots,Final: 24 - 38,NFLNETWORK,Npartly-cloudy-night,66f Mostly Cloudy,3m SW,Details,5,2018
+Titans,Tennessee_ntc120,@,Buffalo_red_ntc120,Bills,Final: 12 - 13,CBS,Cloudy,65f Overcast,3m ENE,Details,5,2018
+Falcons,Atlanta_ntc120a,@,Pittsburg_ntc120,Steelers,Final: 17 - 41,FOX,Partly-cloudy-day,82f Partly Cloudy,6m SSW,Details,5,2018
+Broncos,Denver_6n_120,@,New_york_j_white_n120,Jets,Final: 16 - 34,CBS,Cloudy,75f Overcast,4m WSW,Details,5,2018
+Jaguars,Jacksonville_6n_120,@,Kansas_city_ntc120,Chiefs,Final: 14 - 30,CBS,Rain,58f Rain,2m ENE,Details,5,2018
+Packers,Greenbay_6n_120,@,Detroit_6n_120,Lions,Final: 23 - 31,FOX,Dome,DOME,7m NE,Details,5,2018
+Ravens,Baltimore_ntc120,@,Cleveland_6n_120,Browns,Final: 9 - 12,CBS,Fog,70f Foggy,2m NNE,Details,5,2018
+Giants,New_york_g_6n__120,@,Carolina_6n_120,Panthers,Final: 31 - 33,FOX,Cloudy,80f Overcast,1m NE,Details,5,2018
+Dolphins,Miami_greenmask_ntc120,@,Cinncinnati_6n_120,Bengals,Final: 17 - 27,CBS,Clear-day,86f Clear,2m SSW,Details,5,2018
+Raiders,Oakland_b_wstripe_n_120,@,Los_angeles_2_120,Chargers,Final: 10 - 26,CBS,Clear-day,74f Clear,5m SSW,Details,5,2018
+Cardinals,Arizona_whitetail_ntc120,@,San_francisco_6n_120,49ers,Final: 28 - 18,FOX,Clear-day,76f Clear,9m NNW,Details,5,2018
+Vikings,Minnesota_ntc120,@,Philadelphia_6n_120,Eagles,Final: 23 - 21,FOX,Partly-cloudy-day,78f Mostly Cloudy,3m SW,Details,5,2018
+Rams,Los_angeles_ntc120,@,Seattle_6n_120a,Seahawks,Final: 33 - 31,FOX,Rain,54f Drizzle,3m SSE,Details,5,2018
+Cowboys,Dallas_6n120,@,Houston_6n_120,Texans,Final: 16 - 19,NBC,Npartly-cloudy-night,81f Humid and Partly Cloudy,6m SE,Details,5,2018
+Redskins,Redskins,@,New_orleans_6n_120,Saints,Final: 19 - 43,ESPN,Dome,DOME,5m E,Details,5,2018
+Eagles,Philadelphia_6n_120,@,New_york_g_6n__120,Giants,Final: 34 - 13,NFLNETWORK,Nrain,70f Light Rain,1m S,Details,6,2018
+Buccaneers,Tampa_bay_ntc120,@,Atlanta_ntc120a,Falcons,Final: 29 - 34,FOX,Dome,DOME,3m ESE,Details,6,2018
+Panthers,Carolina_6n_120,@,Redskins,Redskins,Final: 17 - 23,FOX,Partly-cloudy-day,54f Partly Cloudy,0m SE,Details,6,2018
+Colts,Indianapolis_6n_120,@,New_york_j_white_n120,Jets,Final: 34 - 42,CBS,Partly-cloudy-day,57f Mostly Cloudy,5m WSW,Details,6,2018
+Cardinals,Arizona_whitetail_ntc120,@,Minnesota_ntc120,Vikings,Final: 17 - 27,FOX,Dome,DOME,7m WNW,Details,6,2018
+Steelers,Pittsburg_ntc120,@,Cinncinnati_6n_120,Bengals,Final: 28 - 21,CBS,Partly-cloudy-day,51f Mostly Cloudy,2m ESE,Details,6,2018
+Chargers,Los_angeles_2_120,@,Cleveland_6n_120,Browns,Final: 38 - 14,CBS,Clear-day,55f Clear,1m SSE,Details,6,2018
+Bills,Buffalo_red_ntc120,@,Houston_6n_120,Texans,Final: 13 - 20,CBS,Partly-cloudy-day,87f Partly Cloudy,9m SSW,Details,6,2018
+Bears,Chicago_ntc120,@,Miami_greenmask_ntc120,Dolphins,Final: 28 - 31,FOX,Partly-cloudy-day,88f Humid and Partly Cloudy,7m ESE,Details,6,2018
+Seahawks,Seattle_6n_120a,@,Oakland_b_wstripe_n_120,Raiders,Final: 27 - 3,FOX,Rain,50f Light Rain,12m NNE,Details,6,2018
+Rams,Los_angeles_ntc120,@,Denver_6n_120,Broncos,Final: 23 - 20,FOX,Cloudy,24f Overcast,2m NNE,Details,6,2018
+Ravens,Baltimore_ntc120,@,Tennessee_ntc120,Titans,Final: 21 - 0,CBS,Cloudy,66f Overcast,3m S,Details,6,2018
+Jaguars,Jacksonville_6n_120,@,Dallas_6n120,Cowboys,Final: 7 - 40,CBS,Partly-cloudy-day,78f Mostly Cloudy,4m S,Details,6,2018
+Chiefs,Kansas_city_ntc120,@,New_england_6n_120,Patriots,Final: 40 - 43,NBC,Nclear-night,45f Clear,2m SW,Details,6,2018
+49ers,San_francisco_6n_120,@,Greenbay_6n_120,Packers,Final: 30 - 33,ESPN,Npartly-cloudy-night,35f Partly Cloudy,4m WSW,Details,6,2018
+Broncos,Denver_6n_120,@,Arizona_whitetail_ntc120,Cardinals,Final: 45 - 10,NFLNETWORK,Dome,DOME,1m WNW,Details,7,2018
+Titans,Tennessee_ntc120,@,Los_angeles_2_120,Chargers,Final: 19 - 20,CBS,Clear-day,64f Clear,7m E,Details,7,2018
+Browns,Cleveland_6n_120,@,Tampa_bay_ntc120,Buccaneers,Final: 23 - 26,FOX,Clear-day,80f Clear,5m SW,Details,7,2018
+Panthers,Carolina_6n_120,@,Philadelphia_6n_120,Eagles,Final: 21 - 17,FOX,Partly-cloudy-day,47f Mostly Cloudy,9m WNW,Details,7,2018
+Vikings,Minnesota_ntc120,@,New_york_j_white_n120,Jets,Final: 37 - 17,FOX,Cloudy,46f Overcast,11m NNE,Details,7,2018
+Lions,Detroit_6n_120,@,Miami_greenmask_ntc120,Dolphins,Final: 32 - 21,FOX,Partly-cloudy-day,88f Partly Cloudy,5m NNW,Details,7,2018
+Patriots,New_england_6n_120,@,Chicago_ntc120,Bears,Final: 38 - 31,CBS,Clear-day,43f Clear,6m NW,Details,7,2018
+Bills,Buffalo_red_ntc120,@,Indianapolis_6n_120,Colts,Final: 5 - 37,CBS,Dome,DOME,3m SE,Details,7,2018
+Texans,Houston_6n_120,@,Jacksonville_6n_120,Jaguars,Final: 20 - 7,CBS,Partly-cloudy-day,70f Partly Cloudy,13m ENE,Details,7,2018
+Saints,New_orleans_6n_120,@,Baltimore_ntc120,Ravens,Final: 24 - 23,FOX,Partly-cloudy-day,52f Partly Cloudy,12m S,Details,7,2018
+Cowboys,Dallas_6n120,@,Redskins,Redskins,Final: 17 - 20,CBS,Partly-cloudy-day,51f Partly Cloudy,11m S,Details,7,2018
+Rams,Los_angeles_ntc120,@,San_francisco_6n_120,49ers,Final: 39 - 10,NBC,Partly-cloudy-day,71f Partly Cloudy,2m ESE,Details,7,2018
+Bengals,Cinncinnati_6n_120,@,Kansas_city_ntc120,Chiefs,Final: 10 - 45,CBS,Nclear-night,58f Clear,6m E,Details,7,2018
+Giants,New_york_g_6n__120,@,Atlanta_ntc120a,Falcons,Final: 20 - 23,ESPN,Dome,DOME,1m NW,Details,7,2018
+Dolphins,Miami_greenmask_ntc120,@,Houston_6n_120,Texans,Final: 23 - 42,NFLNETWORK,Ncloudy,65f Overcast,6m NNW,Details,8,2018
+Eagles,Philadelphia_6n_120,@,Jacksonville_6n_120,Jaguars,Final: 24 - 18,NFLNETWORK,Partly-cloudy-day,48f Partly Cloudy,13m NE,Details,8,2018
+Broncos,Denver_6n_120,@,Kansas_city_ntc120,Chiefs,Final: 23 - 30,CBS,Clear-day,60f Clear,8m NW,Details,8,2018
+Browns,Cleveland_6n_120,@,Pittsburg_ntc120,Steelers,Final: 18 - 33,CBS,Cloudy,48f Overcast,7m SSW,Details,8,2018
+Redskins,Redskins,@,New_york_g_6n__120,Giants,Final: 20 - 13,FOX,Partly-cloudy-day,50f Mostly Cloudy,7m W,Details,8,2018
+Seahawks,Seattle_6n_120a,@,Detroit_6n_120,Lions,Final: 28 - 14,FOX,Dome,DOME,9m SSE,Details,8,2018
+Buccaneers,Tampa_bay_ntc120,@,Cinncinnati_6n_120,Bengals,Final: 34 - 37,FOX,Cloudy,56f Overcast,7m S,Details,8,2018
+Jets,New_york_j_white_n120,@,Chicago_ntc120,Bears,Final: 10 - 24,CBS,Cloudy,48f Overcast,11m W,Details,8,2018
+Ravens,Baltimore_ntc120,@,Carolina_6n_120,Panthers,Final: 21 - 36,CBS,Clear-day,61f Clear,6m WSW,Details,8,2018
+Colts,Indianapolis_6n_120,@,Oakland_b_wstripe_n_120,Raiders,Final: 42 - 28,CBS,Partly-cloudy-day,69f Partly Cloudy,5m W,Details,8,2018
+49ers,San_francisco_6n_120,@,Arizona_whitetail_ntc120,Cardinals,Final: 15 - 18,FOX,Dome,DOME,1m SW,Details,8,2018
+Packers,Greenbay_6n_120,@,Los_angeles_ntc120,Rams,Final: 27 - 29,FOX,Partly-cloudy-day,81f Partly Cloudy,3m SSW,Details,8,2018
+Saints,New_orleans_6n_120,@,Minnesota_ntc120,Vikings,Final: 30 - 20,NBC,Dome,DOME,8m NW,Details,8,2018
+Patriots,New_england_6n_120,@,Buffalo_red_ntc120,Bills,Final: 25 - 6,ESPN,Npartly-cloudy-night,37f Partly Cloudy,9m WSW,Details,8,2018
+Raiders,Oakland_b_wstripe_n_120,@,San_francisco_6n_120,49ers,Final: 3 - 34,NFLNETWORK,Npartly-cloudy-day,80f Partly Cloudy,3m NNW,Details,9,2018
+Bears,Chicago_ntc120,@,Buffalo_red_ntc120,Bills,Final: 41 - 9,FOX,Clear-day,43f Clear,8m ESE,Details,9,2018
+Buccaneers,Tampa_bay_ntc120,@,Carolina_6n_120,Panthers,Final: 28 - 42,FOX,Clear-day,60f Clear,4m E,Details,9,2018
+Chiefs,Kansas_city_ntc120,@,Cleveland_6n_120,Browns,Final: 37 - 21,CBS,Partly-cloudy-day,53f Partly Cloudy,5m ESE,Details,9,2018
+Jets,New_york_j_white_n120,@,Miami_greenmask_ntc120,Dolphins,Final: 6 - 13,CBS,Partly-cloudy-day,84f Humid and Mostly Cloudy,14m SE,Details,9,2018
+Steelers,Pittsburg_ntc120,@,Baltimore_ntc120,Ravens,Final: 23 - 16,CBS,Clear-day,52f Clear,3m E,Details,9,2018
+Lions,Detroit_6n_120,@,Minnesota_ntc120,Vikings,Final: 9 - 24,FOX,Dome,DOME,6m NE,Details,9,2018
+Falcons,Atlanta_ntc120a,@,Redskins,Redskins,Final: 38 - 14,FOX,Clear-day,53f Clear,4m ESE,Details,9,2018
+Texans,Houston_6n_120,@,Denver_6n_120,Broncos,Final: 19 - 17,CBS,Partly-cloudy-day,53f Mostly Cloudy,2m SSW,Details,9,2018
+Chargers,Los_angeles_2_120,@,Seattle_6n_120a,Seahawks,Final: 25 - 17,CBS,Partly-cloudy-day,57f Mostly Cloudy,4m S,Details,9,2018
+Rams,Los_angeles_ntc120,@,New_orleans_6n_120,Saints,Final: 35 - 45,FOX,Dome,DOME,7m SE,Details,9,2018
+Packers,Greenbay_6n_120,@,New_england_6n_120,Patriots,Final: 17 - 31,NBC,Nclear-night,42f Clear,2m NE,Details,9,2018
+Titans,Tennessee_ntc120,@,Dallas_6n120,Cowboys,Final: 28 - 14,ESPN,Nclear-night,73f Clear,2m NW,Details,9,2018
+Panthers,Carolina_6n_120,@,Pittsburg_ntc120,Steelers,Final: 21 - 52,NFLNETWORK,Nclear-night,40f Clear,1m NE,Details,10,2018
+Saints,New_orleans_6n_120,@,Cinncinnati_6n_120,Bengals,Final: 51 - 14,FOX,Partly-cloudy-day,38f Mostly Cloudy,3m SSE,Details,10,2018
+Falcons,Atlanta_ntc120a,@,Cleveland_6n_120,Browns,Final: 16 - 28,FOX,Partly-cloudy-day,38f Partly Cloudy,2m SSW,Details,10,2018
+Dolphins,Miami_greenmask_ntc120,@,Greenbay_6n_120,Packers,Final: 12 - 31,CBS,Cloudy,30f Overcast,8m SW,Details,10,2018
+Jaguars,Jacksonville_6n_120,@,Indianapolis_6n_120,Colts,Final: 26 - 29,CBS,Dome,DOME,10m S,Details,10,2018
+Lions,Detroit_6n_120,@,Chicago_ntc120,Bears,Final: 22 - 34,FOX,Partly-cloudy-day,35f Mostly Cloudy,7m SSW,Details,10,2018
+Cardinals,Arizona_whitetail_ntc120,@,Kansas_city_ntc120,Chiefs,Final: 14 - 26,FOX,Clear-day,42f Clear,1m NNW,Details,10,2018
+Patriots,New_england_6n_120,@,Tennessee_ntc120,Titans,Final: 10 - 34,CBS,Clear-day,46f Clear,2m SSE,Details,10,2018
+Redskins,Redskins,@,Tampa_bay_ntc120,Buccaneers,Final: 16 - 3,FOX,Clear-day,80f Clear,6m E,Details,10,2018
+Bills,Buffalo_red_ntc120,@,New_york_j_white_n120,Jets,Final: 41 - 10,CBS,Clear-day,44f Clear,7m NW,Details,10,2018
+Chargers,Los_angeles_2_120,@,Oakland_b_wstripe_n_120,Raiders,Final: 20 - 6,FOX,Clear-day,66f Clear,8m NE,Details,10,2018
+Seahawks,Seattle_6n_120a,@,Los_angeles_ntc120,Rams,Final: 31 - 36,CBS,Clear-day,73f Clear,1m NNE,Details,10,2018
+Cowboys,Dallas_6n120,@,Philadelphia_6n_120,Eagles,Final: 27 - 20,NBC,Nclear-night,37f Clear,1m WSW,Details,10,2018
+Giants,New_york_g_6n__120,@,San_francisco_6n_120,49ers,Final: 27 - 23,ESPN,Nclear-day,68f Clear,1m NNW,Details,10,2018
+Packers,Greenbay_6n_120,@,Seattle_6n_120a,Seahawks,Final: 24 - 27,NFLNETWORK,Ncloudy,54f Overcast,3m S,Details,11,2018
+Bengals,Cinncinnati_6n_120,@,Baltimore_ntc120,Ravens,Final: 21 - 24,CBS,Partly-cloudy-day,46f Mostly Cloudy,4m SSE,Details,11,2018
+Panthers,Carolina_6n_120,@,Detroit_6n_120,Lions,Final: 19 - 20,FOX,Dome,DOME,0m N,Details,11,2018
+Titans,Tennessee_ntc120,@,Indianapolis_6n_120,Colts,Final: 10 - 38,CBS,Dome,DOME,7m N,Details,11,2018
+Cowboys,Dallas_6n120,@,Atlanta_ntc120a,Falcons,Final: 22 - 19,FOX,Dome,DOME,1m ESE,Details,11,2018
+Buccaneers,Tampa_bay_ntc120,@,New_york_g_6n__120,Giants,Final: 35 - 38,FOX,Partly-cloudy-day,41f Mostly Cloudy,0m ESE,Details,11,2018
+Texans,Houston_6n_120,@,Redskins,Redskins,Final: 23 - 21,CBS,Partly-cloudy-day,47f Mostly Cloudy,4m SSE,Details,11,2018
+Steelers,Pittsburg_ntc120,@,Jacksonville_6n_120,Jaguars,Final: 20 - 16,NBC,Partly-cloudy-day,72f Partly Cloudy,6m NNE,Details,11,2018
+Broncos,Denver_6n_120,@,Los_angeles_2_120,Chargers,Final: 23 - 22,CBS,Clear-day,70f Clear,3m SW,Details,11,2018
+Raiders,Oakland_b_wstripe_n_120,@,Arizona_whitetail_ntc120,Cardinals,Final: 23 - 21,CBS,Dome,DOME,1m SSE,Details,11,2018
+Eagles,Philadelphia_6n_120,@,New_orleans_6n_120,Saints,Final: 7 - 48,FOX,Dome,DOME,2m N,Details,11,2018
+Vikings,Minnesota_ntc120,@,Chicago_ntc120,Bears,Final: 20 - 25,FOX,Nclear-night,31f Clear,3m WSW,Details,11,2018
+Chiefs,Kansas_city_ntc120,@,Los_angeles_ntc120,Rams,Final: 51 - 54,ESPN,Nclear-day,69f Clear,1m W,Details,11,2018
+Bears,Chicago_ntc120,@,Detroit_6n_120,Lions,Final: 23 - 16,CBS,Dome,DOME,9m E,Details,12,2018
+Redskins,Redskins,@,Dallas_6n120,Cowboys,Final: 23 - 31,FOX,Clear-day,63f Clear,6m SSE,Details,12,2018
+Falcons,Atlanta_ntc120a,@,New_orleans_6n_120,Saints,Final: 17 - 31,NBC,Dome,DOME,2m ESE,Details,12,2018
+Browns,Cleveland_6n_120,@,Cinncinnati_6n_120,Bengals,Final: 35 - 20,CBS,Partly-cloudy-day,48f Mostly Cloudy,0m SSE,Details,12,2018
+Seahawks,Seattle_6n_120a,@,Carolina_6n_120,Panthers,Final: 30 - 27,FOX,Partly-cloudy-day,52f Partly Cloudy,0m S,Details,12,2018
+Jaguars,Jacksonville_6n_120,@,Buffalo_red_ntc120,Bills,Final: 21 - 24,CBS,Partly-cloudy-day,39f Mostly Cloudy,7m W,Details,12,2018
+Raiders,Oakland_b_wstripe_n_120,@,Baltimore_ntc120,Ravens,Final: 17 - 34,CBS,Clear-day,57f Clear,5m WSW,Details,12,2018
+Dolphins,Miami_greenmask_ntc120,@,Indianapolis_6n_120,Colts,Final: 24 - 27,CBS,Dome,DOME,11m ESE,Details,12,2018
+49ers,San_francisco_6n_120,@,Tampa_bay_ntc120,Buccaneers,Final: 9 - 27,FOX,Partly-cloudy-day,75f Partly Cloudy,5m WNW,Details,12,2018
+Giants,New_york_g_6n__120,@,Philadelphia_6n_120,Eagles,Final: 22 - 25,FOX,Clear-day,55f Clear,6m WNW,Details,12,2018
+Patriots,New_england_6n_120,@,New_york_j_white_n120,Jets,Final: 27 - 13,CBS,Partly-cloudy-day,53f Partly Cloudy,8m NNW,Details,12,2018
+Cardinals,Arizona_whitetail_ntc120,@,Los_angeles_2_120,Chargers,Final: 10 - 45,FOX,Clear-day,72f Clear,1m NNW,Details,12,2018
+Steelers,Pittsburg_ntc120,@,Denver_6n_120,Broncos,Final: 17 - 24,CBS,Clear-day,41f Clear,4m NNW,Details,12,2018
+Packers,Greenbay_6n_120,@,Minnesota_ntc120,Vikings,Final: 17 - 24,NBC,Dome,DOME,8m NNW,Details,12,2018
+Titans,Tennessee_ntc120,@,Houston_6n_120,Texans,Final: 17 - 34,ESPN,Nclear-night,51f Clear,7m NNW,Details,12,2018
+Saints,New_orleans_6n_120,@,Dallas_6n120,Cowboys,Final: 10 - 13,NFLNETWORK,Nclear-night,73f Clear,7m SSE,Details,13,2018
+Ravens,Baltimore_ntc120,@,Atlanta_ntc120a,Falcons,Final: 26 - 16,CBS,Dome,DOME,4m SW,Details,13,2018
+Panthers,Carolina_6n_120,@,Tampa_bay_ntc120,Buccaneers,Final: 17 - 24,FOX,Wind,80f Breezy and Humid,15m SSW,Details,13,2018
+Bears,Chicago_ntc120,@,New_york_g_6n__120,Giants,Final: 27 - 30,FOX,Fog,50f Foggy,2m NE,Details,13,2018
+Bills,Buffalo_red_ntc120,@,Miami_greenmask_ntc120,Dolphins,Final: 17 - 21,CBS,Partly-cloudy-day,85f Humid and Mostly Cloudy,13m SSE,Details,13,2018
+Broncos,Denver_6n_120,@,Cinncinnati_6n_120,Bengals,Final: 24 - 10,CBS,Clear-day,63f Clear,9m S,Details,13,2018
+Rams,Los_angeles_ntc120,@,Detroit_6n_120,Lions,Final: 30 - 16,FOX,Dome,DOME,11m S,Details,13,2018
+Cardinals,Arizona_whitetail_ntc120,@,Greenbay_6n_120,Packers,Final: 20 - 17,FOX,Rain,34f Light Rain,18m NNE,Details,13,2018
+Browns,Cleveland_6n_120,@,Houston_6n_120,Texans,Final: 13 - 29,CBS,Clear-day,70f Clear,7m N,Details,13,2018
+Colts,Indianapolis_6n_120,@,Jacksonville_6n_120,Jaguars,Final: 0 - 6,CBS,Rain,78f Drizzle,10m SSW,Details,13,2018
+Jets,New_york_j_white_n120,@,Tennessee_ntc120,Titans,Final: 22 - 26,CBS,Clear-day,68f Clear,13m SW,Details,13,2018
+Chiefs,Kansas_city_ntc120,@,Oakland_b_wstripe_n_120,Raiders,Final: 40 - 33,CBS,Clear-day,53f Clear,1m NNE,Details,13,2018
+Vikings,Minnesota_ntc120,@,New_england_6n_120,Patriots,Final: 10 - 24,FOX,Cloudy,51f Overcast,2m SW,Details,13,2018
+49ers,San_francisco_6n_120,@,Seattle_6n_120a,Seahawks,Final: 16 - 43,NBC,Partly-cloudy-day,45f Mostly Cloudy,0m WSW,Details,13,2018
+Chargers,Los_angeles_2_120,@,Pittsburg_ntc120,Steelers,Final: 33 - 30,CBS,Npartly-cloudy-night,58f Mostly Cloudy,9m S,Details,13,2018
+Redskins,Redskins,@,Philadelphia_6n_120,Eagles,Final: 13 - 28,ESPN,Npartly-cloudy-night,48f Partly Cloudy,4m WNW,Details,13,2018
+Jaguars,Jacksonville_6n_120,@,Tennessee_ntc120,Titans,Final: 9 - 30,NFLNETWORK,Ncloudy,44f Overcast,4m SW,Details,14,2018
+Jets,New_york_j_white_n120,@,Buffalo_red_ntc120,Bills,Final: 27 - 23,CBS,Partly-cloudy-day,25f Partly Cloudy,6m WSW,Details,14,2018
+Giants,New_york_g_6n__120,@,Redskins,Redskins,Final: 40 - 16,FOX,Clear-day,32f Clear,4m NE,Details,14,2018
+Saints,New_orleans_6n_120,@,Tampa_bay_ntc120,Buccaneers,Final: 28 - 14,FOX,Rain,69f Drizzle,6m SW,Details,14,2018
+Patriots,New_england_6n_120,@,Miami_greenmask_ntc120,Dolphins,Final: 33 - 34,CBS,Partly-cloudy-day,80f Humid and Mostly Cloudy,12m SW,Details,14,2018
+Ravens,Baltimore_ntc120,@,Kansas_city_ntc120,Chiefs,Final: 24 - 27,CBS,Clear-day,26f Clear,0m S,Details,14,2018
+Colts,Indianapolis_6n_120,@,Houston_6n_120,Texans,Final: 24 - 21,CBS,Cloudy,45f Overcast,10m NNW,Details,14,2018
+Rams,Los_angeles_ntc120,@,Chicago_ntc120,Bears,Final: 6 - 15,FOX,Clear-day,29f Clear,1m NNW,Details,14,2018
+Panthers,Carolina_6n_120,@,Cleveland_6n_120,Browns,Final: 20 - 26,FOX,Clear-day,31f Clear,0m ESE,Details,14,2018
+Falcons,Atlanta_ntc120a,@,Greenbay_6n_120,Packers,Final: 20 - 34,FOX,Partly-cloudy-day,24f Mostly Cloudy,12m W,Details,14,2018
+Broncos,Denver_6n_120,@,San_francisco_6n_120,49ers,Final: 14 - 20,CBS,Partly-cloudy-day,54f Mostly Cloudy,1m NW,Details,14,2018
+Bengals,Cinncinnati_6n_120,@,Los_angeles_2_120,Chargers,Final: 21 - 26,CBS,Clear-day,70f Clear,1m E,Details,14,2018
+Eagles,Philadelphia_6n_120,@,Dallas_6n120,Cowboys,Final: 23 - 29,FOX,Clear-day,49f Clear,6m NNW,Details,14,2018
+Lions,Detroit_6n_120,@,Arizona_whitetail_ntc120,Cardinals,Final: 17 - 3,FOX,Dome,DOME,0m SW,Details,14,2018
+Steelers,Pittsburg_ntc120,@,Oakland_b_wstripe_n_120,Raiders,Final: 21 - 24,NBC,Npartly-cloudy-day,51f Mostly Cloudy,2m NE,Details,14,2018
+Vikings,Minnesota_ntc120,@,Seattle_6n_120a,Seahawks,Final: 7 - 21,ESPN,Npartly-cloudy-night,47f Mostly Cloudy,5m S,Details,14,2018
+Chargers,Los_angeles_2_120,@,Kansas_city_ntc120,Chiefs,Final: 29 - 28,NFLNETWORK,Ncloudy,37f Overcast,8m NNW,Details,15,2018
+Browns,Cleveland_6n_120,@,Denver_6n_120,Broncos,Final: 17 - 16,NFLNETWORK,Partly-cloudy-day,54f Partly Cloudy,2m NW,Details,15,2018
+Texans,Houston_6n_120,@,New_york_j_white_n120,Jets,Final: 29 - 22,NFLNETWORK,Partly-cloudy-day,50f Mostly Cloudy,8m NE,Details,15,2018
+Packers,Greenbay_6n_120,@,Chicago_ntc120,Bears,Final: 17 - 24,FOX,Clear-day,40f Clear,5m W,Details,15,2018
+Lions,Detroit_6n_120,@,Buffalo_red_ntc120,Bills,Final: 13 - 14,FOX,Snow,33f Light Snow,2m NNE,Details,15,2018
+Buccaneers,Tampa_bay_ntc120,@,Baltimore_ntc120,Ravens,Final: 12 - 20,FOX,Rain,43f Light Rain,7m N,Details,15,2018
+Cardinals,Arizona_whitetail_ntc120,@,Atlanta_ntc120a,Falcons,Final: 14 - 40,FOX,Dome,DOME,5m NW,Details,15,2018
+Raiders,Oakland_b_wstripe_n_120,@,Cinncinnati_6n_120,Bengals,Final: 16 - 30,CBS,Cloudy,42f Overcast,1m WNW,Details,15,2018
+Titans,Tennessee_ntc120,@,New_york_g_6n__120,Giants,Final: 17 - 0,CBS,Cloudy,39f Overcast,10m NE,Details,15,2018
+Dolphins,Miami_greenmask_ntc120,@,Minnesota_ntc120,Vikings,Final: 17 - 41,CBS,Dome,DOME,7m WNW,Details,15,2018
+Redskins,Redskins,@,Jacksonville_6n_120,Jaguars,Final: 16 - 13,FOX,Clear-day,62f Clear,9m W,Details,15,2018
+Cowboys,Dallas_6n120,@,Indianapolis_6n_120,Colts,Final: 0 - 23,FOX,Dome,DOME,5m WNW,Details,15,2018
+Seahawks,Seattle_6n_120a,@,San_francisco_6n_120,49ers,Final: 23 - 26,FOX,Partly-cloudy-day,59f Mostly Cloudy,7m S,Details,15,2018
+Patriots,New_england_6n_120,@,Pittsburg_ntc120,Steelers,Final: 10 - 17,CBS,Cloudy,41f Overcast,3m NW,Details,15,2018
+Eagles,Philadelphia_6n_120,@,Los_angeles_ntc120,Rams,Final: 30 - 23,NBC,Nclear-day,65f Clear,3m SW,Details,15,2018
+Saints,New_orleans_6n_120,@,Carolina_6n_120,Panthers,Final: 12 - 9,ESPN,Nclear-night,48f Clear,0m NNW,Details,15,2018
+Redskins,Redskins,@,Tennessee_ntc120,Titans,Final: 16 - 25,TBD,Clear-day,50f Clear,7m S,Details,16,2018
+Ravens,Baltimore_ntc120,@,Los_angeles_2_120,Chargers,Final: 22 - 10,TBD,Nclear-day,64f Clear,4m WSW,Details,16,2018
+Giants,New_york_g_6n__120,@,Indianapolis_6n_120,Colts,Final: 27 - 28,TBD,Dome,DOME,8m NW,Details,16,2018
+Texans,Houston_6n_120,@,Philadelphia_6n_120,Eagles,Final: 30 - 32,CBS,Clear-day,43f Clear,5m W,Details,16,2018
+Jaguars,Jacksonville_6n_120,@,Miami_greenmask_ntc120,Dolphins,Final: 17 - 7,TBD,Clear-day,71f Clear,4m NNE,Details,16,2018
+Packers,Greenbay_6n_120,@,New_york_j_white_n120,Jets,Final: 44 - 38,FOX,Clear-day,41f Clear,6m WNW,Details,16,2018
+Bengals,Cinncinnati_6n_120,@,Cleveland_6n_120,Browns,Final: 18 - 26,CBS,Cloudy,37f Overcast,3m SW,Details,16,2018
+Buccaneers,Tampa_bay_ntc120,@,Dallas_6n120,Cowboys,Final: 20 - 27,FOX,Clear-day,48f Clear,9m N,Details,16,2018
+Vikings,Minnesota_ntc120,@,Detroit_6n_120,Lions,Final: 27 - 9,FOX,Dome,DOME,9m W,Details,16,2018
+Bills,Buffalo_red_ntc120,@,New_england_6n_120,Patriots,Final: 12 - 24,CBS,Clear-day,37f Clear,8m WNW,Details,16,2018
+Falcons,Atlanta_ntc120a,@,Carolina_6n_120,Panthers,Final: 24 - 10,FOX,Clear-day,49f Clear,1m E,Details,16,2018
+Bears,Chicago_ntc120,@,San_francisco_6n_120,49ers,Final: 14 - 9,FOX,Partly-cloudy-day,59f Partly Cloudy,1m NNW,Details,16,2018
+Rams,Los_angeles_ntc120,@,Arizona_whitetail_ntc120,Cardinals,Final: 31 - 9,FOX,Dome,DOME,1m SE,Details,16,2018
+Steelers,Pittsburg_ntc120,@,New_orleans_6n_120,Saints,Final: 28 - 31,CBS,Dome,DOME,2m W,Details,16,2018
+Chiefs,Kansas_city_ntc120,@,Seattle_6n_120a,Seahawks,Final: 31 - 38,NBC,Ncloudy,45f Overcast,4m SSE,Details,16,2018
+Broncos,Denver_6n_120,@,Oakland_b_wstripe_n_120,Raiders,Final: 14 - 27,ESPN,Ncloudy,56f Overcast,9m WSW,Details,16,2018
+Dolphins,Miami_greenmask_ntc120,@,Buffalo_red_ntc120,Bills,Final: 17 - 42,CBS,Cloudy,28f Overcast,7m WSW,Details,17,2018
+Lions,Detroit_6n_120,@,Greenbay_6n_120,Packers,Final: 31 - 0,FOX,Partly-cloudy-day,25f Mostly Cloudy,11m SSW,Details,17,2018
+Jaguars,Jacksonville_6n_120,@,Houston_6n_120,Texans,Final: 3 - 20,CBS,Cloudy,45f Overcast,6m NNW,Details,17,2018
+Jets,New_york_j_white_n120,@,New_england_6n_120,Patriots,Final: 3 - 38,CBS,Partly-cloudy-day,31f Partly Cloudy,0m SSE,Details,17,2018
+Panthers,Carolina_6n_120,@,New_orleans_6n_120,Saints,Final: 33 - 14,FOX,Dome,DOME,1m NNE,Details,17,2018
+Cowboys,Dallas_6n120,@,New_york_g_6n__120,Giants,Final: 36 - 35,FOX,Cloudy,35f Overcast,0m E,Details,17,2018
+Falcons,Atlanta_ntc120a,@,Tampa_bay_ntc120,Buccaneers,Final: 34 - 32,FOX,Partly-cloudy-day,77f Mostly Cloudy,4m S,Details,17,2018
+Browns,Cleveland_6n_120,@,Baltimore_ntc120,Ravens,Final: 24 - 26,CBS,Clear-day,45f Clear,3m SSE,Details,17,2018
+Eagles,Philadelphia_6n_120,@,Redskins,Redskins,Final: 24 - 0,FOX,Clear-day,45f Clear,3m SSE,Details,17,2018
+Raiders,Oakland_b_wstripe_n_120,@,Kansas_city_ntc120,Chiefs,Final: 3 - 35,CBS,Clear-day,40f Clear,11m S,Details,17,2018
+Bears,Chicago_ntc120,@,Minnesota_ntc120,Vikings,Final: 24 - 10,FOX,Dome,DOME,7m SSE,Details,17,2018
+Bengals,Cinncinnati_6n_120,@,Pittsburg_ntc120,Steelers,Final: 13 - 16,CBS,Clear-day,41f Clear,8m SW,Details,17,2018
+Chargers,Los_angeles_2_120,@,Denver_6n_120,Broncos,Final: 23 - 9,CBS,Partly-cloudy-day,51f Partly Cloudy,5m N,Details,17,2018
+49ers,San_francisco_6n_120,@,Los_angeles_ntc120,Rams,Final: 32 - 48,FOX,Clear-day,62f Clear,3m S,Details,17,2018
+Cardinals,Arizona_whitetail_ntc120,@,Seattle_6n_120a,Seahawks,Final: 24 - 27,FOX,Partly-cloudy-day,45f Mostly Cloudy,3m SSE,Details,17,2018
+Colts,Indianapolis_6n_120,@,Tennessee_ntc120,Titans,Final: 33 - 17,CBS,Npartly-cloudy-night,53f Mostly Cloudy,1m SSE,Details,17,2018
+Packers,Greenbay_6n_120,@,Chicago_ntc120,Bears,Final: 10 - 3,NBC,Nclear-night,65f Clear,7m ESE,Details,1,2019
+Rams,Los_angeles_ntc120,@,Carolina_6n_120,Panthers,Final: 30 - 27,FOX,Clear-day,85f Clear,3m E,Details,1,2019
+Redskins,Redskins,@,Philadelphia_6n_120,Eagles,Final: 27 - 32,FOX,Partly-cloudy-day,79f Partly Cloudy,4m W,Details,1,2019
+Bills,Buffalo_red_ntc120,@,New_york_j_white_n120,Jets,Final: 17 - 16,CBS,Partly-cloudy-day,74f Partly Cloudy,4m WNW,Details,1,2019
+Falcons,Atlanta_ntc120a,@,Minnesota_ntc120,Vikings,Final: 12 - 28,FOX,Dome,DOME,3m ENE,Details,1,2019
+Ravens,Baltimore_ntc120,@,Miami_greenmask_ntc120,Dolphins,Final: 59 - 10,CBS,Partly-cloudy-day,89f Humid and Mostly Cloudy,7m SE,Details,1,2019
+Chiefs,Kansas_city_ntc120,@,Jacksonville_6n_120,Jaguars,Final: 40 - 26,CBS,Clear-day,93f Clear,3m SW,Details,1,2019
+Titans,Tennessee_ntc120,@,Cleveland_6n_120,Browns,Final: 43 - 13,CBS,Partly-cloudy-day,69f Mostly Cloudy,6m NE,Details,1,2019
+Colts,Indianapolis_6n_120,@,Los_angeles_2_120,Chargers,Final: 24 - 30,CBS,Clear-day,73f Clear,6m SSW,Details,1,2019
+Bengals,Cinncinnati_6n_120,@,Seattle_6n_120a,Seahawks,Final: 20 - 21,CBS,Cloudy,66f Overcast,4m S,Details,1,2019
+49ers,San_francisco_6n_120,@,Tampa_bay_ntc120,Buccaneers,Final: 31 - 17,FOX,Partly-cloudy-day,91f Humid and Partly Cloudy,5m SW,Details,1,2019
+Giants,New_york_g_6n__120,@,Dallas_6n120,Cowboys,Final: 17 - 35,FOX,Clear-day,97f Clear,9m SSE,Details,1,2019
+Lions,Detroit_6n_120,@,Arizona_whitetail_ntc120,Cardinals,Final: 27 - 27,FOX,Dome,DOME,6m WSW,Details,1,2019
+Steelers,Pittsburg_ntc120,@,New_england_6n_120,Patriots,Final: 3 - 33,NBC,Npartly-cloudy-night,64f Partly Cloudy,3m NW,Details,1,2019
+Texans,Houston_6n_120,@,New_orleans_6n_120,Saints,Final: 28 - 30,ESPN,Dome,DOME,5m SSE,Details,1,2019
+Broncos,Denver_6n_120,@,Oakland_b_wstripe_n_120,Raiders,Final: 16 - 24,ESPN,Npartly-cloudy-day,64f Partly Cloudy,10m WSW,Details,1,2019
+Buccaneers,Tampa_bay_ntc120,@,Carolina_6n_120,Panthers,Final: 20 - 14,NFLNETWORK,Nrain,86f Drizzle,1m SE,Details,2,2019
+Cardinals,Arizona_whitetail_ntc120,@,Baltimore_ntc120,Ravens,Final: 17 - 23,FOX,Clear-day,81f Clear,3m NNW,Details,2,2019
+Cowboys,Dallas_6n120,@,Redskins,Redskins,Final: 31 - 21,FOX,Clear-day,82f Clear,3m NW,Details,2,2019
+Colts,Indianapolis_6n_120,@,Tennessee_ntc120,Titans,Final: 19 - 17,CBS,Clear-day,92f Clear,1m ESE,Details,2,2019
+Seahawks,Seattle_6n_120a,@,Pittsburg_ntc120,Steelers,Final: 28 - 26,FOX,Clear-day,78f Clear,1m NNW,Details,2,2019
+Bills,Buffalo_red_ntc120,@,New_york_g_6n__120,Giants,Final: 28 - 14,CBS,Partly-cloudy-day,80f Partly Cloudy,2m WNW,Details,2,2019
+49ers,San_francisco_6n_120,@,Cinncinnati_6n_120,Bengals,Final: 41 - 17,FOX,Clear-day,82f Clear,3m SSW,Details,2,2019
+Chargers,Los_angeles_2_120,@,Detroit_6n_120,Lions,Final: 10 - 13,CBS,Dome,DOME,7m SW,Details,2,2019
+Vikings,Minnesota_ntc120,@,Greenbay_6n_120,Packers,Final: 16 - 21,FOX,Cloudy,72f Overcast,3m S,Details,2,2019
+Jaguars,Jacksonville_6n_120,@,Houston_6n_120,Texans,Final: 12 - 13,CBS,Partly-cloudy-day,90f Partly Cloudy,11m ENE,Details,2,2019
+Patriots,New_england_6n_120,@,Miami_greenmask_ntc120,Dolphins,Final: 43 - 0,CBS,Partly-cloudy-day,90f Humid and Mostly Cloudy,9m W,Details,2,2019
+Chiefs,Kansas_city_ntc120,@,Oakland_b_wstripe_n_120,Raiders,Final: 28 - 10,CBS,Partly-cloudy-day,66f Partly Cloudy,9m SW,Details,2,2019
+Saints,New_orleans_6n_120,@,Los_angeles_ntc120,Rams,Final: 9 - 27,FOX,Partly-cloudy-day,84f Partly Cloudy,5m SSW,Details,2,2019
+Bears,Chicago_ntc120,@,Denver_6n_120,Broncos,Final: 16 - 14,FOX,Partly-cloudy-day,88f Mostly Cloudy,4m NE,Details,2,2019
+Eagles,Philadelphia_6n_120,@,Atlanta_ntc120a,Falcons,Final: 20 - 24,NBC,Dome,DOME,2m E,Details,2,2019
+Browns,Cleveland_6n_120,@,New_york_j_white_n120,Jets,Final: 23 - 3,ESPN,Npartly-cloudy-night,71f Mostly Cloudy,1m ESE,Details,2,2019
+Titans,Tennessee_ntc120,@,Jacksonville_6n_120,Jaguars,Final: 7 - 20,NFLNETWORK,Npartly-cloudy-night,73f Mostly Cloudy,7m NE,Details,3,2019
+Bengals,Cinncinnati_6n_120,@,Buffalo_red_ntc120,Bills,Final: 17 - 21,CBS,Partly-cloudy-day,79f Mostly Cloudy,9m WSW,Details,3,2019
+Lions,Detroit_6n_120,@,Philadelphia_6n_120,Eagles,Final: 27 - 24,FOX,Clear-day,86f Clear,5m SSW,Details,3,2019
+Jets,New_york_j_white_n120,@,New_england_6n_120,Patriots,Final: 14 - 30,CBS,Clear-day,82f Clear,8m SW,Details,3,2019
+Raiders,Oakland_b_wstripe_n_120,@,Minnesota_ntc120,Vikings,Final: 14 - 34,FOX,Dome,DOME,5m NNW,Details,3,2019
+Ravens,Baltimore_ntc120,@,Kansas_city_ntc120,Chiefs,Final: 28 - 33,CBS,Cloudy,69f Overcast,3m SW,Details,3,2019
+Falcons,Atlanta_ntc120a,@,Indianapolis_6n_120,Colts,Final: 24 - 27,CBS,Dome,DOME,11m SSW,Details,3,2019
+Broncos,Denver_6n_120,@,Greenbay_6n_120,Packers,Final: 16 - 27,FOX,Cloudy,69f Overcast,5m SW,Details,3,2019
+Dolphins,Miami_greenmask_ntc120,@,Dallas_6n120,Cowboys,Final: 6 - 31,FOX,Partly-cloudy-day,86f Mostly Cloudy,10m S,Details,3,2019
+Giants,New_york_g_6n__120,@,Tampa_bay_ntc120,Buccaneers,Final: 32 - 31,FOX,Partly-cloudy-day,89f Partly Cloudy,8m ENE,Details,3,2019
+Panthers,Carolina_6n_120,@,Arizona_whitetail_ntc120,Cardinals,Final: 38 - 20,FOX,Dome,DOME,2m ESE,Details,3,2019
+Steelers,Pittsburg_ntc120,@,San_francisco_6n_120,49ers,Final: 20 - 24,CBS,Partly-cloudy-day,82f Partly Cloudy,6m WNW,Details,3,2019
+Saints,New_orleans_6n_120,@,Seattle_6n_120a,Seahawks,Final: 33 - 27,CBS,Rain,62f Drizzle,7m S,Details,3,2019
+Texans,Houston_6n_120,@,Los_angeles_2_120,Chargers,Final: 27 - 20,CBS,Partly-cloudy-day,84f Partly Cloudy,4m S,Details,3,2019
+Rams,Los_angeles_ntc120,@,Cleveland_6n_120,Browns,Final: 20 - 13,NBC,Nclear-night,82f Clear,5m SSW,Details,3,2019
+Bears,Chicago_ntc120,@,Redskins,Redskins,Final: 31 - 15,ESPN,Ncloudy,82f Overcast,3m WSW,Details,3,2019
+Eagles,Philadelphia_6n_120,@,Greenbay_6n_120,Packers,Final: 34 - 27,NFLNETWORK,Nclear-night,60f Clear,2m S,Details,4,2019
+Titans,Tennessee_ntc120,@,Atlanta_ntc120a,Falcons,Final: 24 - 10,CBS,Dome,DOME,4m SE,Details,4,2019
+Redskins,Redskins,@,New_york_g_6n__120,Giants,Final: 3 - 24,FOX,Clear-day,78f Clear,6m N,Details,4,2019
+Chargers,Los_angeles_2_120,@,Miami_greenmask_ntc120,Dolphins,Final: 30 - 10,CBS,Partly-cloudy-day,86f Mostly Cloudy,11m NE,Details,4,2019
+Raiders,Oakland_b_wstripe_n_120,@,Indianapolis_6n_120,Colts,Final: 31 - 24,CBS,Dome,DOME,3m ESE,Details,4,2019
+Panthers,Carolina_6n_120,@,Houston_6n_120,Texans,Final: 16 - 10,FOX,Partly-cloudy-day,89f Humid and Mostly Cloudy,8m SSE,Details,4,2019
+Chiefs,Kansas_city_ntc120,@,Detroit_6n_120,Lions,Final: 34 - 30,FOX,Dome,DOME,7m NE,Details,4,2019
+Browns,Cleveland_6n_120,@,Baltimore_ntc120,Ravens,Final: 40 - 25,CBS,Partly-cloudy-day,82f Partly Cloudy,5m NE,Details,4,2019
+Patriots,New_england_6n_120,@,Buffalo_red_ntc120,Bills,Final: 16 - 10,CBS,Partly-cloudy-day,57f Mostly Cloudy,10m ENE,Details,4,2019
+Buccaneers,Tampa_bay_ntc120,@,Los_angeles_ntc120,Rams,Final: 55 - 40,FOX,Partly-cloudy-day,70f Partly Cloudy,6m SSW,Details,4,2019
+Seahawks,Seattle_6n_120a,@,Arizona_whitetail_ntc120,Cardinals,Final: 27 - 10,FOX,Dome,DOME,5m SSW,Details,4,2019
+Vikings,Minnesota_ntc120,@,Chicago_ntc120,Bears,Final: 6 - 16,CBS,Cloudy,66f Overcast,6m E,Details,4,2019
+Jaguars,Jacksonville_6n_120,@,Denver_6n_120,Broncos,Final: 26 - 24,CBS,Partly-cloudy-day,86f Partly Cloudy,12m SSW,Details,4,2019
+Cowboys,Dallas_6n120,@,New_orleans_6n_120,Saints,Final: 10 - 12,NBC,Dome,DOME,4m ESE,Details,4,2019
+Bengals,Cinncinnati_6n_120,@,Pittsburg_ntc120,Steelers,Final: 3 - 27,ESPN,Nclear-night,75f Clear,1m SE,Details,4,2019
+Rams,Los_angeles_ntc120,@,Seattle_6n_120a,Seahawks,Final: 29 - 30,NFLNETWORK,Ncloudy,55f Overcast,5m S,Details,5,2019
+Jaguars,Jacksonville_6n_120,@,Carolina_6n_120,Panthers,Final: 27 - 34,CBS,Cloudy,74f Overcast,1m E,Details,5,2019
+Patriots,New_england_6n_120,@,Redskins,Redskins,Final: 33 - 7,CBS,Cloudy,70f Overcast,6m SSW,Details,5,2019
+Bills,Buffalo_red_ntc120,@,Tennessee_ntc120,Titans,Final: 14 - 7,CBS,Rain,76f Drizzle,3m SSW,Details,5,2019
+Ravens,Baltimore_ntc120,@,Pittsburg_ntc120,Steelers,Final: 26 - 23,CBS,Rain,68f Drizzle,3m WSW,Details,5,2019
+Cardinals,Arizona_whitetail_ntc120,@,Cinncinnati_6n_120,Bengals,Final: 26 - 23,FOX,Partly-cloudy-day,76f Mostly Cloudy,6m WSW,Details,5,2019
+Falcons,Atlanta_ntc120a,@,Houston_6n_120,Texans,Final: 32 - 53,FOX,Partly-cloudy-day,88f Mostly Cloudy,6m E,Details,5,2019
+Buccaneers,Tampa_bay_ntc120,@,New_orleans_6n_120,Saints,Final: 24 - 31,FOX,Dome,DOME,7m ESE,Details,5,2019
+Vikings,Minnesota_ntc120,@,New_york_g_6n__120,Giants,Final: 28 - 10,FOX,Cloudy,67f Overcast,5m S,Details,5,2019
+Bears,Chicago_ntc120,@,Oakland_b_wstripe_n_120,Raiders,Final: 21 - 24,FOX,Partly-cloudy-day,60f Mostly Cloudy,16m NW,Details,5,2019
+Jets,New_york_j_white_n120,@,Philadelphia_6n_120,Eagles,Final: 6 - 31,CBS,Cloudy,70f Overcast,7m S,Details,5,2019
+Broncos,Denver_6n_120,@,Los_angeles_2_120,Chargers,Final: 20 - 13,CBS,Clear-day,80f Clear,5m SW,Details,5,2019
+Packers,Greenbay_6n_120,@,Dallas_6n120,Cowboys,Final: 34 - 24,FOX,Partly-cloudy-day,96f Partly Cloudy,5m S,Details,5,2019
+Colts,Indianapolis_6n_120,@,Kansas_city_ntc120,Chiefs,Final: 19 - 13,NBC,Nclear-night,58f Clear,0m SW,Details,5,2019
+Browns,Cleveland_6n_120,@,San_francisco_6n_120,49ers,Final: 3 - 31,ESPN,Nclear-day,87f Clear,6m NW,Details,5,2019
