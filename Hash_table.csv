@@ -1,33 +1,33 @@
-Team_1,Team_2
-kan,Kansas City
-nwe,New England
-nor,New Orleans
-lar,LA Rams
-ari,Arizona
-ten,Tennessee
-sfo,San Francisco
-car,Carolina
-was,Washington
-det,Detroit
-bal,Baltimore
-den,Denver
-jac,Jacksonville
-cin,Cincinnati
-phi,Philadelphia
-mia,Miami
-buf,Buffalo
-oak,Oakland
-dal,Dallas
-nyg,NY Giants
-ind,Indianapolis
-tam,Tampa Bay
-min,Minnesota
-hou,Houston
-gnb,Green Bay
-sea,Seattle
-pit,Pittsburgh
-chi,Chicago
-cle,Cleveland
-nyj,NY Jets
-lac,LA Chargers
-atl,Atlanta
+Team_1,Team_2,Team_3
+kan,Kansas City,Chiefs
+nwe,New England,Patriots
+nor,New Orleans,Saints
+lar,LA Rams,Rams
+ari,Arizona,Cardinals
+ten,Tennessee,Titans
+sfo,San Francisco,49ers
+car,Carolina,Panthers
+was,Washington,Redskins
+det,Detroit,Lions
+bal,Baltimore,Ravens
+den,Denver,Broncos
+jac,Jacksonville,Jaguars
+cin,Cincinnati,Bengals
+phi,Philadelphia,Eagles
+mia,Miami,Dolphins
+buf,Buffalo,Bills
+oak,Oakland,Raiders
+dal,Dallas,Cowboys
+nyg,NY Giants,Giants
+ind,Indianapolis,Colts
+tam,Tampa Bay,Buccaneers
+min,Minnesota,Vikings
+hou,Houston,Texans
+gnb,Green Bay,Packers
+sea,Seattle,Seahawks
+pit,Pittsburgh,Steelers
+chi,Chicago,Bears
+cle,Cleveland,Browns
+nyj,NY Jets,Jets
+lac,LA Chargers,Chargers
+atl,Atlanta,Falcons
